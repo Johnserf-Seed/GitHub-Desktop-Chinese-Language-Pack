@@ -11,5 +11,3 @@
 <img src="https://tvax3.sinaimg.cn/large/006908GAly1hb3dhm6vw3j30qo0ic0yq.jpg" alt="image" width="960" data-width="960" data-height="660">
 
 <img src="https://tvax3.sinaimg.cn/large/006908GAly1hb3da2436oj30qo0icdq8.jpg" alt="image" width="960" data-width="960" data-height="660">
-
-<img src="https://tvax3.sinaimg.cn/large/006908GAly1hb3dhm6vw3j30qo0ic0yq.jpg" alt="image" width="960" data-width="960" data-height="660">
