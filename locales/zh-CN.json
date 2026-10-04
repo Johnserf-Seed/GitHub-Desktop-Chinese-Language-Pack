@@ -297,6 +297,13 @@
       ]
     },
     {
+      "text": " menu or",
+      "translation": " 菜单，或按",
+      "sources": [
+        "app/src/ui/changes/no-changes.tsx"
+      ]
+    },
+    {
       "text": " model. ",
       "translation": " 模型。",
       "sources": [
@@ -6810,6 +6817,13 @@
       "translation": "请选择要提交的文件",
       "sources": [
         "app/src/ui/changes/commit-message.tsx"
+      ]
+    },
+    {
+      "text": "Select your editor in",
+      "translation": "在此处选择编辑器：",
+      "sources": [
+        "app/src/ui/changes/no-changes.tsx"
       ]
     },
     {

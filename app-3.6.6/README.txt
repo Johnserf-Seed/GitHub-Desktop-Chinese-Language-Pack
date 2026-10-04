@@ -1,7 +1,7 @@
 GitHub Desktop 3.6.6 简体中文汉化包
 汉化作者：Johnserf-Seed
 
-本包包含 1244 条不同文案，共替换 1592 处。
+本包包含 1246 条不同文案，共替换 1594 处。
 仍有未翻译的文案；pending-ui-strings.json 是待审核候选清单。
 
 安装：正常退出 GitHub Desktop 后，双击 install.cmd。

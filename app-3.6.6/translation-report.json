@@ -3,7 +3,7 @@
   "locale": "zh-CN",
   "translationAuthor": "Johnserf-Seed",
   "translationAuthorUrl": "https://github.com/Johnserf-Seed",
-  "dictionaryEntries": 1244,
+  "dictionaryEntries": 1246,
   "parserVersion": "8.17.0",
   "files": {
     "main.js": {
@@ -13,8 +13,8 @@
     },
     "renderer.js": {
       "originalSha256": "e05f7f3b555c414ff3a651529b56e27bf0ffa9335e9ef1bd84a58808d7bca782",
-      "translatedSha256": "17c689707c1b972f77536019c75d8fc457cc6152754001c16cbd71283d856af4",
-      "occurrences": 1514
+      "translatedSha256": "b2d4b48ab2dd38d6a1a01e06854ad807bbbf877b03ec8e7b1592d73e46521773",
+      "occurrences": 1516
     }
   },
   "applied": [
@@ -3646,6 +3646,13 @@
     },
     {
       "file": "renderer.js",
+      "text": " menu or",
+      "translation": " 菜单，或按",
+      "source": "app/src/ui/changes/no-changes.tsx",
+      "occurrences": 1
+    },
+    {
+      "file": "renderer.js",
       "text": "View the files of your repository in ",
       "translation": "在以下程序中查看仓库文件：",
       "source": "app/src/ui/changes/no-changes.tsx",
@@ -3655,6 +3662,13 @@
       "file": "renderer.js",
       "text": "Open the repository page on GitHub in your browser",
       "translation": "在浏览器中打开 GitHub 仓库页面",
+      "source": "app/src/ui/changes/no-changes.tsx",
+      "occurrences": 1
+    },
+    {
+      "file": "renderer.js",
+      "text": "Select your editor in",
+      "translation": "在此处选择编辑器：",
       "source": "app/src/ui/changes/no-changes.tsx",
       "occurrences": 1
     },
@@ -11174,21 +11188,9 @@
     },
     {
       "file": "renderer.js",
-      "text": " menu or",
-      "source": "app/src/ui/changes/no-changes.tsx",
-      "line": 224
-    },
-    {
-      "file": "renderer.js",
       "text": "Could not find matching menu item for ",
       "source": "app/src/ui/changes/no-changes.tsx",
       "line": 249
-    },
-    {
-      "file": "renderer.js",
-      "text": "Select your editor in",
-      "source": "app/src/ui/changes/no-changes.tsx",
-      "line": 328
     },
     {
       "file": "renderer.js",

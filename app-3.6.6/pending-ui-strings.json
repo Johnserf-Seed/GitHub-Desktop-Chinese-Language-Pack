@@ -751,21 +751,9 @@
   },
   {
     "file": "renderer.js",
-    "text": " menu or",
-    "source": "app/src/ui/changes/no-changes.tsx",
-    "line": 224
-  },
-  {
-    "file": "renderer.js",
     "text": "Could not find matching menu item for ",
     "source": "app/src/ui/changes/no-changes.tsx",
     "line": 249
-  },
-  {
-    "file": "renderer.js",
-    "text": "Select your editor in",
-    "source": "app/src/ui/changes/no-changes.tsx",
-    "line": 328
   },
   {
     "file": "renderer.js",

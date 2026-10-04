@@ -3,7 +3,7 @@ name: Generate latest Chinese language pack
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 2 * * 1'
   push:
     branches: [main]
     paths:

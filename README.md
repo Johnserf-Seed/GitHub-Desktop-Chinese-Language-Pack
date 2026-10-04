@@ -10,7 +10,7 @@
 
 [下载项目 ZIP](https://github.com/Johnserf-Seed/GitHub-Desktop-Chinese-Language-Pack/archive/refs/heads/main.zip) · [查看 3.6.6 翻译包](app-3.6.6/) · [下载自动生成的包](https://github.com/Johnserf-Seed/GitHub-Desktop-Chinese-Language-Pack/actions/workflows/update-language-pack.yml) · [安装说明](#安装当前翻译包) · [生成新版](#本机一键生成)
 
-Simplified Chinese localization for GitHub Desktop on Windows. Includes a prebuilt 3.6.6 language pack, a local package generator, a daily GitHub Actions workflow, and manual install/restore scripts. Existing translations are reused for newer versions; new interface text may need review.
+Simplified Chinese localization for GitHub Desktop on Windows. Includes a prebuilt 3.6.6 language pack, a local package generator, a weekly GitHub Actions workflow, and manual install/restore scripts. Existing translations are reused for newer versions; new interface text may need review.
 
 ## 安装当前翻译包
 
@@ -64,7 +64,7 @@ Simplified Chinese localization for GitHub Desktop on Windows. Includes a prebui
 
 仓库包含 `.github/workflows/update-language-pack.yml`。推送到 GitHub 默认分支 `main` 后，可在 Actions 页面运行 **Generate latest Chinese language pack**。
 
-工作流每天北京时间 10:00 检查并下载官方最新版，生成翻译包；修改词典或生成脚本后也会运行。执行成功后，在该次运行的 Artifacts 中下载压缩包。它不会自动安装到本机，也不会自动提交代码或发布 Release。上传产物保存 30 天。
+工作流每周一北京时间 10:00 检查并下载官方最新版，生成翻译包；修改词典或生成脚本后也会运行。执行成功后，在该次运行的 Artifacts 中下载压缩包。它不会自动安装到本机，也不会自动提交代码或发布 Release。上传产物保存 30 天。
 
 ## 补充和调整翻译
 
