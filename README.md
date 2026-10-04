@@ -8,9 +8,34 @@
 
 覆盖菜单、仓库和分支操作、提交与差异、设置、Copilot 和工作树等常用界面；支持原版备份、恢复英文版，并在“帮助 → 关于”显示可点击的汉化作者主页。
 
-[下载项目 ZIP](https://github.com/Johnserf-Seed/GitHub-Desktop-Chinese-Language-Pack/archive/refs/heads/main.zip) · [查看 3.6.6 翻译包](app-3.6.6/) · [下载自动生成的包](https://github.com/Johnserf-Seed/GitHub-Desktop-Chinese-Language-Pack/actions/workflows/update-language-pack.yml) · [安装说明](#安装当前翻译包) · [生成新版](#本机一键生成)
+[下载项目 ZIP](https://github.com/Johnserf-Seed/GitHub-Desktop-Chinese-Language-Pack/archive/refs/heads/main.zip) · [查看 3.6.6 翻译包](app-3.6.6/) · [下载自动生成的包](https://github.com/Johnserf-Seed/GitHub-Desktop-Chinese-Language-Pack/actions/workflows/update-language-pack.yml) · [效果截图](#汉化效果截图) · [安装说明](#安装当前翻译包) · [生成新版](#本机一键生成)
 
 Simplified Chinese localization for GitHub Desktop on Windows. Includes a prebuilt 3.6.6 language pack, a local package generator, a weekly GitHub Actions workflow, and manual install/restore scripts. Existing translations are reused for newer versions; new interface text may need review.
+
+## 汉化效果截图
+
+以下截图来自 GitHub Desktop 3.6.6 Windows x64 的实际汉化界面。点击图片可查看大图。
+
+**仓库主界面**：中文菜单、提交区域、编辑器选择提示和操作快捷键。
+
+[![GitHub Desktop 3.6.6 简体中文仓库主界面](docs/screenshots/repository-overview.jpg)](docs/screenshots/repository-overview.jpg)
+
+<details>
+<summary>查看更多截图：外观设置、通知设置与汉化作者</summary>
+
+**外观设置**：主题、日期时间格式和差异显示选项。
+
+[![GitHub Desktop 简体中文外观设置](docs/screenshots/preferences-appearance.jpg)](docs/screenshots/preferences-appearance.jpg)
+
+**通知设置**：通知开关和中文配置提示。
+
+[![GitHub Desktop 简体中文通知设置](docs/screenshots/preferences-notifications.jpg)](docs/screenshots/preferences-notifications.jpg)
+
+**关于页面**：中文版本信息与可点击的汉化作者 GitHub 主页。
+
+[![GitHub Desktop 中文关于页面与 Johnserf-Seed 汉化作者链接](docs/screenshots/about-translation-author.jpg)](docs/screenshots/about-translation-author.jpg)
+
+</details>
 
 ## 安装当前翻译包
 
