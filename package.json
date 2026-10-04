@@ -1,0 +1,9 @@
+{
+  "name": "github-desktop-chinese-language-pack",
+  "version": "2.0.0",
+  "private": true,
+  "description": "GitHub Desktop Windows 简体中文汉化包生成器",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "scripts": { "generate": "node scripts/generate.cjs" }
+}

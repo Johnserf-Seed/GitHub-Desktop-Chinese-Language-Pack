@@ -1,0 +1,49 @@
+name: Generate latest Chinese language pack
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'locales/**'
+      - 'scripts/**'
+      - 'package.json'
+      - '.github/workflows/update-language-pack.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: latest-language-pack
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: windows-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Download and extract official stable Windows package
+        id: upstream
+        shell: pwsh
+        run: |
+          $source = ./scripts/download-latest.ps1 -Destination "$env:RUNNER_TEMP/upstream"
+          "version=$($source.Version)" >> $env:GITHUB_OUTPUT
+          "appPath=$($source.AppPath)" >> $env:GITHUB_OUTPUT
+      - name: Generate and validate translations
+        shell: pwsh
+        env:
+          UPSTREAM_APP_PATH: ${{ steps.upstream.outputs.appPath }}
+        run: ./scripts/generate.ps1 -AppPath $env:UPSTREAM_APP_PATH
+      - name: Upload language pack and translation report
+        uses: actions/upload-artifact@v4
+        with:
+          name: GitHubDesktop-${{ steps.upstream.outputs.version }}-zh-CN
+          path: dist/GitHubDesktop-*-zh-CN.zip
+          if-no-files-found: error
+          retention-days: 30

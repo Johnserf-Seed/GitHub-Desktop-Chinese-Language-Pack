@@ -1,0 +1,3428 @@
+[
+  {
+    "file": "main.js",
+    "text": "external editor",
+    "source": "app/src/main-process/menu/build-default-menu.ts",
+    "line": 370
+  },
+  {
+    "file": "main.js",
+    "text": "Unable to get spell check menu items  - no electron context-menu event",
+    "source": "app/src/main-process/menu/build-spell-check-menu.ts",
+    "line": 23
+  },
+  {
+    "file": "renderer.js",
+    "text": "Executing ",
+    "source": "app/src/ui/lib/git-perf.ts",
+    "line": 31
+  },
+  {
+    "file": "renderer.js",
+    "text": " (took ",
+    "source": "app/src/ui/lib/git-perf.ts",
+    "line": 31
+  },
+  {
+    "file": "renderer.js",
+    "text": "Unable to confirm revealing folder '",
+    "source": "app/src/ui/main-process-proxy.ts",
+    "line": 136
+  },
+  {
+    "file": "renderer.js",
+    "text": "Unable to reveal folder '",
+    "source": "app/src/ui/main-process-proxy.ts",
+    "line": 143
+  },
+  {
+    "file": "renderer.js",
+    "text": "Unable show item in folder '",
+    "source": "app/src/ui/main-process-proxy.ts",
+    "line": 97
+  },
+  {
+    "file": "renderer.js",
+    "text": "Unable to retrieve file information for ",
+    "source": "app/src/ui/main-process-proxy.ts",
+    "line": 158
+  },
+  {
+    "file": "renderer.js",
+    "text": "Preventing direct open of path '",
+    "source": "app/src/ui/main-process-proxy.ts",
+    "line": 203
+  },
+  {
+    "file": "renderer.js",
+    "text": "' because it could not be conclusively identified as non-executable",
+    "source": "app/src/ui/main-process-proxy.ts",
+    "line": 203
+  },
+  {
+    "file": "renderer.js",
+    "text": "Trying to get the folder contents of a non-folder at '",
+    "source": "app/src/ui/main-process-proxy.ts",
+    "line": 170
+  },
+  {
+    "file": "renderer.js",
+    "text": "Error parsing updates url",
+    "source": "app/src/ui/lib/update-store.ts",
+    "line": 232
+  },
+  {
+    "file": "renderer.js",
+    "text": "Error updating priority update status",
+    "source": "app/src/ui/lib/update-store.ts",
+    "line": 295
+  },
+  {
+    "file": "renderer.js",
+    "text": "Press ",
+    "source": "app/src/ui/window/full-screen-info.tsx",
+    "line": 155
+  },
+  {
+    "file": "renderer.js",
+    "text": "to exit fullscreen",
+    "source": "app/src/ui/window/full-screen-info.tsx",
+    "line": 155
+  },
+  {
+    "file": "renderer.js",
+    "text": " took ",
+    "source": "app/src/ui/lib/timing.ts",
+    "line": 7
+  },
+  {
+    "file": "renderer.js",
+    "text": " as it is outside the bounds",
+    "source": "app/src/ui/lib/list/section-list.tsx",
+    "line": 800
+  },
+  {
+    "file": "renderer.js",
+    "text": "' as it is outside the bounds",
+    "source": "app/src/ui/lib/list/section-list.tsx",
+    "line": 982
+  },
+  {
+    "file": "renderer.js",
+    "text": "Invalid selected rows that contained a negative number passed to SectionList component. This will cause keyboard navigation and focus problems.",
+    "source": "app/src/ui/lib/list/section-list.tsx",
+    "line": 1459
+  },
+  {
+    "file": "renderer.js",
+    "text": "Path: ",
+    "source": "app/src/ui/repositories-list/repositories-list.tsx",
+    "line": 215
+  },
+  {
+    "file": "renderer.js",
+    "text": "ProTip! Press",
+    "source": "app/src/ui/repositories-list/repositories-list.tsx",
+    "line": 399
+  },
+  {
+    "file": "renderer.js",
+    "text": "Ctrl",
+    "source": "app/src/ui/repositories-list/repositories-list.tsx",
+    "line": 402
+  },
+  {
+    "file": "renderer.js",
+    "text": "to quickly add a local repository, and",
+    "source": "app/src/ui/repositories-list/repositories-list.tsx",
+    "line": 399
+  },
+  {
+    "file": "renderer.js",
+    "text": "Shift",
+    "source": "app/src/ui/repositories-list/repositories-list.tsx",
+    "line": 408
+  },
+  {
+    "file": "renderer.js",
+    "text": "to clone from anywhere within the app",
+    "source": "app/src/ui/repositories-list/repositories-list.tsx",
+    "line": 399
+  },
+  {
+    "file": "renderer.js",
+    "text": "Committed ",
+    "source": "app/src/ui/changes/undo-commit.tsx",
+    "line": 39
+  },
+  {
+    "file": "renderer.js",
+    "text": " as it is outside the bounds of the array [0, ",
+    "source": "app/src/ui/lib/list/list.tsx",
+    "line": 816
+  },
+  {
+    "file": "renderer.js",
+    "text": "' as it is outside the bounds of the array [0, ",
+    "source": "app/src/ui/lib/list/list.tsx",
+    "line": 974
+  },
+  {
+    "file": "renderer.js",
+    "text": "Invalid selected rows that contained a negative number passed to List component. This will cause keyboard navigation and focus problems.",
+    "source": "app/src/ui/lib/list/list.tsx",
+    "line": 1362
+  },
+  {
+    "file": "renderer.js",
+    "text": "Unable to set cursor position when element is null",
+    "source": "app/src/ui/autocompletion/autocompleting-text-input.tsx",
+    "line": 601
+  },
+  {
+    "file": "renderer.js",
+    "text": "The regex (",
+    "source": "app/src/ui/autocompletion/autocompleting-text-input.tsx",
+    "line": 747
+  },
+  {
+    "file": "renderer.js",
+    "text": ") returned from ",
+    "source": "app/src/ui/autocompletion/autocompleting-text-input.tsx",
+    "line": 747
+  },
+  {
+    "file": "renderer.js",
+    "text": " isn't global, but it should be!",
+    "source": "app/src/ui/autocompletion/autocompleting-text-input.tsx",
+    "line": 747
+  },
+  {
+    "file": "renderer.js",
+    "text": "Avatar tokens are only available for ghe.com",
+    "source": "app/src/ui/lib/avatar.tsx",
+    "line": 31
+  },
+  {
+    "file": "renderer.js",
+    "text": "No account found for endpoint",
+    "source": "app/src/ui/lib/avatar.tsx",
+    "line": 36
+  },
+  {
+    "file": "renderer.js",
+    "text": "Avatar token missing",
+    "source": "app/src/ui/lib/avatar.tsx",
+    "line": 42
+  },
+  {
+    "file": "renderer.js",
+    "text": "Avatar URL already resolved or endpoint is missing",
+    "source": "app/src/ui/lib/avatar.tsx",
+    "line": 66
+  },
+  {
+    "file": "renderer.js",
+    "text": "Email does not appear to be a bot email",
+    "source": "app/src/ui/lib/avatar.tsx",
+    "line": 78
+  },
+  {
+    "file": "renderer.js",
+    "text": "No avatar url returned from API",
+    "source": "app/src/ui/lib/avatar.tsx",
+    "line": 85
+  },
+  {
+    "file": "renderer.js",
+    "text": "Co-Authors ",
+    "source": "app/src/ui/lib/author-input/author-input.tsx",
+    "line": 182
+  },
+  {
+    "file": "renderer.js",
+    "text": "Error: user ",
+    "source": "app/src/ui/lib/author-input/author-input.tsx",
+    "line": 435
+  },
+  {
+    "file": "renderer.js",
+    "text": ":scope > div.dialog-header button.close",
+    "source": "app/src/ui/dialog/dialog.tsx",
+    "line": 565
+  },
+  {
+    "file": "renderer.js",
+    "text": " fails ",
+    "source": "app/src/ui/repository-rules/repo-rules-failure-list.tsx",
+    "line": 42
+  },
+  {
+    "file": "renderer.js",
+    "text": " rule",
+    "source": "app/src/ui/repository-rules/repo-rules-failure-list.tsx",
+    "line": 42
+  },
+  {
+    "file": "renderer.js",
+    "text": "rules",
+    "source": "app/src/ui/repository-rules/repo-rules-failure-list.tsx",
+    "line": 62
+  },
+  {
+    "file": "renderer.js",
+    "text": ".gitignore",
+    "source": "app/src/ui/repository-settings/git-ignore.tsx",
+    "line": 19
+  },
+  {
+    "file": "renderer.js",
+    "text": "Publish your repository to GitHub. Need help?",
+    "source": "app/src/ui/repository-settings/no-remote.tsx",
+    "line": 19
+  },
+  {
+    "file": "renderer.js",
+    "text": "Pull requests targeting ",
+    "source": "app/src/ui/repository-settings/fork-contribution-target-description.tsx",
+    "line": 20
+  },
+  {
+    "file": "renderer.js",
+    "text": "will be shown in the pull request list.",
+    "source": "app/src/ui/repository-settings/fork-contribution-target-description.tsx",
+    "line": 20
+  },
+  {
+    "file": "renderer.js",
+    "text": "Issues will be created in ",
+    "source": "app/src/ui/repository-settings/fork-contribution-target-description.tsx",
+    "line": 24
+  },
+  {
+    "file": "renderer.js",
+    "text": "\"View on GitHub\" will open ",
+    "source": "app/src/ui/repository-settings/fork-contribution-target-description.tsx",
+    "line": 27
+  },
+  {
+    "file": "renderer.js",
+    "text": "in the browser.",
+    "source": "app/src/ui/repository-settings/fork-contribution-target-description.tsx",
+    "line": 27
+  },
+  {
+    "file": "renderer.js",
+    "text": "New branches will be based on",
+    "source": "app/src/ui/repository-settings/fork-contribution-target-description.tsx",
+    "line": 31
+  },
+  {
+    "file": "renderer.js",
+    "text": "'s default branch.",
+    "source": "app/src/ui/repository-settings/fork-contribution-target-description.tsx",
+    "line": 31
+  },
+  {
+    "file": "renderer.js",
+    "text": "Autocompletion of user and issues will be based on",
+    "source": "app/src/ui/repository-settings/fork-contribution-target-description.tsx",
+    "line": 35
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Enterprise",
+    "source": "app/src/ui/lib/git-email-not-found-warning.tsx",
+    "line": 92
+  },
+  {
+    "file": "renderer.js",
+    "text": "your ",
+    "source": "app/src/ui/lib/git-email-not-found-warning.tsx",
+    "line": 94
+  },
+  {
+    "file": "renderer.js",
+    "text": "(GitHub Enterprise)",
+    "source": "app/src/ui/lib/git-config-user-form.tsx",
+    "line": 179
+  },
+  {
+    "file": "renderer.js",
+    "text": "RepositorySettings: unable to read root .gitignore file for ",
+    "source": "app/src/ui/repository-settings/repository-settings.tsx",
+    "line": 105
+  },
+  {
+    "file": "renderer.js",
+    "text": "Could not read root .gitignore: ",
+    "source": "app/src/ui/repository-settings/repository-settings.tsx",
+    "line": 108
+  },
+  {
+    "file": "renderer.js",
+    "text": "RepositorySettings: unable to set remote URL at ",
+    "source": "app/src/ui/repository-settings/repository-settings.tsx",
+    "line": 308
+  },
+  {
+    "file": "renderer.js",
+    "text": "RepositorySettings: unable to save gitignore at ",
+    "source": "app/src/ui/repository-settings/repository-settings.tsx",
+    "line": 324
+  },
+  {
+    "file": "renderer.js",
+    "text": "create commit",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 642
+  },
+  {
+    "file": "renderer.js",
+    "text": "Your changes will modify your ",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 1256
+  },
+  {
+    "file": "renderer.js",
+    "text": "to make these changes as a new commit.",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 1256
+  },
+  {
+    "file": "renderer.js",
+    "text": "You don't have write access to ",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 1336
+  },
+  {
+    "file": "renderer.js",
+    "text": ". Want to",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 1336
+  },
+  {
+    "file": "renderer.js",
+    "text": " is a protected branch. Want to",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 1355
+  },
+  {
+    "file": "renderer.js",
+    "text": "The branch name ",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 1365
+  },
+  {
+    "file": "renderer.js",
+    "text": " fails",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 1365
+  },
+  {
+    "file": "renderer.js",
+    "text": "that ",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 1365
+  },
+  {
+    "file": "renderer.js",
+    "text": " prevent it from being published",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 1365
+  },
+  {
+    "file": "renderer.js",
+    "text": "apply to the branch ",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 1392
+  },
+  {
+    "file": "renderer.js",
+    "text": " that require signed commits",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 1392
+  },
+  {
+    "file": "renderer.js",
+    "text": " that",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 1414
+  },
+  {
+    "file": "renderer.js",
+    "text": " prevent pushing",
+    "source": "app/src/ui/changes/commit-message.tsx",
+    "line": 1414
+  },
+  {
+    "file": "renderer.js",
+    "text": " will move your stashed files to the Changes list.",
+    "source": "app/src/ui/stashing/stash-diff-header.tsx",
+    "line": 56
+  },
+  {
+    "file": "renderer.js",
+    "text": "W:",
+    "source": "app/src/ui/diff/image-diffs/two-up.tsx",
+    "line": 45
+  },
+  {
+    "file": "renderer.js",
+    "text": "px | ",
+    "source": "app/src/ui/diff/image-diffs/two-up.tsx",
+    "line": 44
+  },
+  {
+    "file": "renderer.js",
+    "text": "H:",
+    "source": "app/src/ui/diff/image-diffs/two-up.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": "Size:",
+    "source": "app/src/ui/diff/image-diffs/two-up.tsx",
+    "line": 47
+  },
+  {
+    "file": "renderer.js",
+    "text": "Diff:",
+    "source": "app/src/ui/diff/image-diffs/two-up.tsx",
+    "line": 67
+  },
+  {
+    "file": "renderer.js",
+    "text": "2-up",
+    "source": "app/src/ui/diff/image-diffs/modified-image-diff.tsx",
+    "line": 156
+  },
+  {
+    "file": "renderer.js",
+    "text": "Lines ",
+    "source": "app/src/ui/diff/side-by-side-diff-row.tsx",
+    "line": 646
+  },
+  {
+    "file": "renderer.js",
+    "text": " of ",
+    "source": "app/src/ui/diff/side-by-side-diff.tsx",
+    "line": 1682
+  },
+  {
+    "file": "renderer.js",
+    "text": "No oldLineNumber for ",
+    "source": "app/src/ui/diff/side-by-side-diff.tsx",
+    "line": 1852
+  },
+  {
+    "file": "renderer.js",
+    "text": "No newLineNumber for ",
+    "source": "app/src/ui/diff/side-by-side-diff.tsx",
+    "line": 1856
+  },
+  {
+    "file": "renderer.js",
+    "text": " value for ",
+    "source": "app/src/ui/diff/side-by-side-diff.tsx",
+    "line": 1995
+  },
+  {
+    "file": "renderer.js",
+    "text": "This is a submodule based on the repository",
+    "source": "app/src/ui/diff/submodule-diff.tsx",
+    "line": 86
+  },
+  {
+    "file": "renderer.js",
+    "text": "This submodule changed its commit from",
+    "source": "app/src/ui/diff/submodule-diff.tsx",
+    "line": 111
+  },
+  {
+    "file": "renderer.js",
+    "text": " to",
+    "source": "app/src/ui/diff/submodule-diff.tsx",
+    "line": 111
+  },
+  {
+    "file": "renderer.js",
+    "text": "This submodule ",
+    "source": "app/src/ui/diff/submodule-diff.tsx",
+    "line": 120
+  },
+  {
+    "file": "renderer.js",
+    "text": " added pointing at commit",
+    "source": "app/src/ui/diff/submodule-diff.tsx",
+    "line": 120
+  },
+  {
+    "file": "renderer.js",
+    "text": " removed while it was pointing at commit",
+    "source": "app/src/ui/diff/submodule-diff.tsx",
+    "line": 128
+  },
+  {
+    "file": "renderer.js",
+    "text": "This submodule has ",
+    "source": "app/src/ui/diff/submodule-diff.tsx",
+    "line": 168
+  },
+  {
+    "file": "renderer.js",
+    "text": " changes. Those changes must be committed inside of the submodule before they can be part of the parent repository.",
+    "source": "app/src/ui/diff/submodule-diff.tsx",
+    "line": 168
+  },
+  {
+    "file": "renderer.js",
+    "text": "The file was renamed and includes changes.",
+    "source": "app/src/ui/diff/index.tsx",
+    "line": 232
+  },
+  {
+    "file": "renderer.js",
+    "text": " and ",
+    "source": "app/src/ui/changes/filter-changes-logic.ts",
+    "line": 119
+  },
+  {
+    "file": "renderer.js",
+    "text": ", and ",
+    "source": "app/src/ui/changes/filter-changes-logic.ts",
+    "line": 123
+  },
+  {
+    "file": "renderer.js",
+    "text": "keyboard selection toggle despite no file - what?",
+    "source": "app/src/ui/changes/sidebar.tsx",
+    "line": 319
+  },
+  {
+    "file": "renderer.js",
+    "text": "Home",
+    "source": "app/src/ui/app-menu/menu-pane.tsx",
+    "line": 299
+  },
+  {
+    "file": "renderer.js",
+    "text": "Enter",
+    "source": "app/src/ui/app-menu/menu-pane.tsx",
+    "line": 301
+  },
+  {
+    "file": "renderer.js",
+    "text": " A force push will rewrite history on the remote. Any collaborators working on this branch will need to reset their own local branch to match the history of the remote.",
+    "source": "app/src/ui/toolbar/push-pull-button-dropdown.tsx",
+    "line": 82
+  },
+  {
+    "file": "renderer.js",
+    "text": "Overwrite any changes on ",
+    "source": "app/src/ui/toolbar/push-pull-button-dropdown.tsx",
+    "line": 92
+  },
+  {
+    "file": "renderer.js",
+    "text": " with your local changes",
+    "source": "app/src/ui/toolbar/push-pull-button-dropdown.tsx",
+    "line": 92
+  },
+  {
+    "file": "renderer.js",
+    "text": "force push",
+    "source": "app/src/ui/toolbar/push-pull-button.tsx",
+    "line": 351
+  },
+  {
+    "file": "renderer.js",
+    "text": "Would you like to publish ",
+    "source": "app/src/ui/branches/push-branch-commits.tsx",
+    "line": 106
+  },
+  {
+    "file": "renderer.js",
+    "text": " now and open a pull request?",
+    "source": "app/src/ui/branches/push-branch-commits.tsx",
+    "line": 106
+  },
+  {
+    "file": "renderer.js",
+    "text": " that haven't been pushed to the remote yet.",
+    "source": "app/src/ui/branches/push-branch-commits.tsx",
+    "line": 118
+  },
+  {
+    "file": "renderer.js",
+    "text": "Would you like to push your changes to",
+    "source": "app/src/ui/branches/push-branch-commits.tsx",
+    "line": 121
+  },
+  {
+    "file": "renderer.js",
+    "text": " before creating your pull request?",
+    "source": "app/src/ui/branches/push-branch-commits.tsx",
+    "line": 121
+  },
+  {
+    "file": "renderer.js",
+    "text": "ProTip! Press",
+    "source": "app/src/ui/branches/no-branches.tsx",
+    "line": 41
+  },
+  {
+    "file": "renderer.js",
+    "text": "Ctrl",
+    "source": "app/src/ui/branches/no-branches.tsx",
+    "line": 45
+  },
+  {
+    "file": "renderer.js",
+    "text": "Shift",
+    "source": "app/src/ui/branches/no-branches.tsx",
+    "line": 45
+  },
+  {
+    "file": "renderer.js",
+    "text": "to quickly create a new branch from anywhere within the app",
+    "source": "app/src/ui/branches/no-branches.tsx",
+    "line": 41
+  },
+  {
+    "file": "renderer.js",
+    "text": "No open pull requests in ",
+    "source": "app/src/ui/branches/no-pull-requests.tsx",
+    "line": 52
+  },
+  {
+    "file": "renderer.js",
+    "text": "Would you like to",
+    "source": "app/src/ui/branches/no-pull-requests.tsx",
+    "line": 71
+  },
+  {
+    "file": "renderer.js",
+    "text": "and get going on your next project?",
+    "source": "app/src/ui/branches/no-pull-requests.tsx",
+    "line": 71
+  },
+  {
+    "file": "renderer.js",
+    "text": "from the current branch?",
+    "source": "app/src/ui/branches/no-pull-requests.tsx",
+    "line": 81
+  },
+  {
+    "file": "renderer.js",
+    "text": "checkout pull request from list",
+    "source": "app/src/ui/branches/pull-request-list.tsx",
+    "line": 299
+  },
+  {
+    "file": "renderer.js",
+    "text": "\n        </head>\n        <body class=\"markdown-body\">\n          <div id=\"content\">\n          ",
+    "source": "app/src/ui/lib/sandboxed-markdown.tsx",
+    "line": 154
+  },
+  {
+    "file": "renderer.js",
+    "text": "checkout branch from list",
+    "source": "app/src/ui/branches/branches-container.tsx",
+    "line": 437
+  },
+  {
+    "file": "renderer.js",
+    "text": "There are no steps to display for this check.",
+    "source": "app/src/ui/check-runs/ci-check-run-no-steps.tsx",
+    "line": 19
+  },
+  {
+    "file": "renderer.js",
+    "text": "View check details",
+    "source": "app/src/ui/check-runs/ci-check-run-no-steps.tsx",
+    "line": 21
+  },
+  {
+    "file": "renderer.js",
+    "text": "The DropdownSuggestedActions component was provided an empty array. It requires an array of at least one item.",
+    "source": "app/src/ui/suggested-actions/dropdown-suggested-action.tsx",
+    "line": 88
+  },
+  {
+    "file": "renderer.js",
+    "text": " menu or",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 224
+  },
+  {
+    "file": "renderer.js",
+    "text": "Could not find matching menu item for ",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 249
+  },
+  {
+    "file": "renderer.js",
+    "text": "Select your editor in",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 328
+  },
+  {
+    "file": "renderer.js",
+    "text": " in progress that you have not yet committed.",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 417
+  },
+  {
+    "file": "renderer.js",
+    "text": "Always available in the toolbar for local repositories or",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 467
+  },
+  {
+    "file": "renderer.js",
+    "text": "The current branch (",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 507
+  },
+  {
+    "file": "renderer.js",
+    "text": ") hasn't been published to the remote yet. By publishing it ",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 507
+  },
+  {
+    "file": "renderer.js",
+    "text": " you can share it, ",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 507
+  },
+  {
+    "file": "renderer.js",
+    "text": "and collaborate with others.",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 507
+  },
+  {
+    "file": "renderer.js",
+    "text": "Always available in the toolbar or",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 516
+  },
+  {
+    "file": "renderer.js",
+    "text": ") has",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 556
+  },
+  {
+    "file": "renderer.js",
+    "text": " on",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 556
+  },
+  {
+    "file": "renderer.js",
+    "text": " that",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 556
+  },
+  {
+    "file": "renderer.js",
+    "text": "does not",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 560
+  },
+  {
+    "file": "renderer.js",
+    "text": "do not",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 560
+  },
+  {
+    "file": "renderer.js",
+    "text": " exist on your machine.",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 556
+  },
+  {
+    "file": "renderer.js",
+    "text": "Always available in the toolbar when there are remote changes or",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 566
+  },
+  {
+    "file": "renderer.js",
+    "text": " from the ",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 573
+  },
+  {
+    "file": "renderer.js",
+    "text": " and ",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 630
+  },
+  {
+    "file": "renderer.js",
+    "text": "Always available in the toolbar when there are local commits waiting to be pushed or ",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 634
+  },
+  {
+    "file": "renderer.js",
+    "text": "Could not find matching menu item for 'create-pull-request'",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 669
+  },
+  {
+    "file": "renderer.js",
+    "text": ") is already published to GitHub. Create a pull request to propose and collaborate on your changes.",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 674
+  },
+  {
+    "file": "renderer.js",
+    "text": "Could not find matching menu item for 'preview-pull-request'",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 687
+  },
+  {
+    "file": "renderer.js",
+    "text": ") is already published to GitHub. Preview the changes this pull request will have before proposing your changes.",
+    "source": "app/src/ui/changes/no-changes.tsx",
+    "line": 707
+  },
+  {
+    "file": "renderer.js",
+    "text": " files selected",
+    "source": "app/src/ui/changes/multiple-selection.tsx",
+    "line": 22
+  },
+  {
+    "file": "renderer.js",
+    "text": " people",
+    "source": "app/src/ui/lib/commit-attribution.tsx",
+    "line": 38
+  },
+  {
+    "file": "renderer.js",
+    "text": " commits",
+    "source": "app/src/ui/drag-elements/commit-drag-element.tsx",
+    "line": 102
+  },
+  {
+    "file": "renderer.js",
+    "text": "'Insert here'",
+    "source": "app/src/ui/drag-elements/commit-drag-element.tsx",
+    "line": 110
+  },
+  {
+    "file": "renderer.js",
+    "text": " here",
+    "source": "app/src/ui/drag-elements/commit-drag-element.tsx",
+    "line": 120
+  },
+  {
+    "file": "renderer.js",
+    "text": "Date: ",
+    "source": "app/src/ui/history/commit-list.tsx",
+    "line": 535
+  },
+  {
+    "file": "renderer.js",
+    "text": "Use ",
+    "source": "app/src/ui/history/commit-list.tsx",
+    "line": 654
+  },
+  {
+    "file": "renderer.js",
+    "text": " to choose a new location.",
+    "source": "app/src/ui/history/commit-list.tsx",
+    "line": 654
+  },
+  {
+    "file": "renderer.js",
+    "text": "Press ",
+    "source": "app/src/ui/history/commit-list.tsx",
+    "line": 659
+  },
+  {
+    "file": "renderer.js",
+    "text": " to confirm.",
+    "source": "app/src/ui/history/commit-list.tsx",
+    "line": 659
+  },
+  {
+    "file": "renderer.js",
+    "text": "You will",
+    "source": "app/src/ui/history/unreachable-commits-dialog.tsx",
+    "line": 142
+  },
+  {
+    "file": "renderer.js",
+    "text": "see changes from the following ",
+    "source": "app/src/ui/history/unreachable-commits-dialog.tsx",
+    "line": 142
+  },
+  {
+    "file": "renderer.js",
+    "text": " because",
+    "source": "app/src/ui/history/unreachable-commits-dialog.tsx",
+    "line": 142
+  },
+  {
+    "file": "renderer.js",
+    "text": "in the ancestry path of the most recent commit in your selection.",
+    "source": "app/src/ui/history/unreachable-commits-dialog.tsx",
+    "line": 142
+  },
+  {
+    "file": "renderer.js",
+    "text": " unreachable ",
+    "source": "app/src/ui/history/expandable-commit-summary.tsx",
+    "line": 367
+  },
+  {
+    "file": "renderer.js",
+    "text": "not included.",
+    "source": "app/src/ui/history/expandable-commit-summary.tsx",
+    "line": 365
+  },
+  {
+    "file": "renderer.js",
+    "text": "Showing changes from",
+    "source": "app/src/ui/history/expandable-commit-summary.tsx",
+    "line": 474
+  },
+  {
+    "file": "renderer.js",
+    "text": " added lines",
+    "source": "app/src/ui/history/expandable-commit-summary.tsx",
+    "line": 556
+  },
+  {
+    "file": "renderer.js",
+    "text": " removed lines",
+    "source": "app/src/ui/history/expandable-commit-summary.tsx",
+    "line": 562
+  },
+  {
+    "file": "renderer.js",
+    "text": " changed ",
+    "source": "app/src/ui/history/selected-commits.tsx",
+    "line": 281
+  },
+  {
+    "file": "renderer.js",
+    "text": "No commit selected",
+    "source": "app/src/ui/history/selected-commits.tsx",
+    "line": 468
+  },
+  {
+    "file": "renderer.js",
+    "text": ". Authorization of GitHub Desktop Helper is required.",
+    "source": "app/src/ui/lib/install-cli.ts",
+    "line": 45
+  },
+  {
+    "file": "renderer.js",
+    "text": "Checking for ability to ",
+    "source": "app/src/ui/history/merge-call-to-action-with-conflicts.tsx",
+    "line": 251
+  },
+  {
+    "file": "renderer.js",
+    "text": "automatically…",
+    "source": "app/src/ui/history/merge-call-to-action-with-conflicts.tsx",
+    "line": 251
+  },
+  {
+    "file": "renderer.js",
+    "text": "This will update ",
+    "source": "app/src/ui/history/merge-call-to-action-with-conflicts.tsx",
+    "line": 267
+  },
+  {
+    "file": "renderer.js",
+    "text": "This will merge",
+    "source": "app/src/ui/history/merge-call-to-action-with-conflicts.tsx",
+    "line": 278
+  },
+  {
+    "file": "renderer.js",
+    "text": "There will be",
+    "source": "app/src/ui/history/merge-call-to-action-with-conflicts.tsx",
+    "line": 312
+  },
+  {
+    "file": "renderer.js",
+    "text": "The compared branch (",
+    "source": "app/src/ui/history/compare.tsx",
+    "line": 229
+  },
+  {
+    "file": "renderer.js",
+    "text": ") is up to date with your branch",
+    "source": "app/src/ui/history/compare.tsx",
+    "line": 229
+  },
+  {
+    "file": "renderer.js",
+    "text": "Your branch is up to date with the compared branch (",
+    "source": "app/src/ui/history/compare.tsx",
+    "line": 234
+  },
+  {
+    "file": "renderer.js",
+    "text": "Behind (",
+    "source": "app/src/ui/history/compare.tsx",
+    "line": 423
+  },
+  {
+    "file": "renderer.js",
+    "text": "Ahead (",
+    "source": "app/src/ui/history/compare.tsx",
+    "line": 426
+  },
+  {
+    "file": "renderer.js",
+    "text": "Your default editor is",
+    "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+    "line": 152
+  },
+  {
+    "file": "renderer.js",
+    "text": ". You can change your preferred editor in",
+    "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+    "line": 152
+  },
+  {
+    "file": "renderer.js",
+    "text": "options",
+    "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+    "line": 157
+  },
+  {
+    "file": "renderer.js",
+    "text": "It doesn’t look like you have a text editor installed. We can recommend",
+    "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+    "line": 127
+  },
+  {
+    "file": "renderer.js",
+    "text": " or ",
+    "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+    "line": 136
+  },
+  {
+    "file": "renderer.js",
+    "text": "Atom",
+    "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+    "line": 139
+  },
+  {
+    "file": "renderer.js",
+    "text": ", but feel free to use any.",
+    "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+    "line": 127
+  },
+  {
+    "file": "renderer.js",
+    "text": "Ctrl",
+    "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+    "line": 178
+  },
+  {
+    "file": "renderer.js",
+    "text": "Shift",
+    "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+    "line": 178
+  },
+  {
+    "file": "renderer.js",
+    "text": "Open this repository in your preferred text editor. Edit the",
+    "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+    "line": 190
+  },
+  {
+    "file": "renderer.js",
+    "text": "README.md",
+    "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+    "line": 193
+  },
+  {
+    "file": "renderer.js",
+    "text": "file, save it, and come back.",
+    "source": "app/src/ui/tutorial/tutorial-panel.tsx",
+    "line": 190
+  },
+  {
+    "file": "renderer.js",
+    "text": "Html syntax icon",
+    "source": "app/src/ui/tutorial/welcome.tsx",
+    "line": 28
+  },
+  {
+    "file": "renderer.js",
+    "text": "Git",
+    "source": "app/src/ui/tutorial/welcome.tsx",
+    "line": 30
+  },
+  {
+    "file": "renderer.js",
+    "text": " is the version control system.",
+    "source": "app/src/ui/tutorial/welcome.tsx",
+    "line": 29
+  },
+  {
+    "file": "renderer.js",
+    "text": "People with discussion bubbles overhead",
+    "source": "app/src/ui/tutorial/welcome.tsx",
+    "line": 36
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub",
+    "source": "app/src/ui/tutorial/welcome.tsx",
+    "line": 39
+  },
+  {
+    "file": "renderer.js",
+    "text": " is where you store your code and collaborate with others.",
+    "source": "app/src/ui/tutorial/welcome.tsx",
+    "line": 38
+  },
+  {
+    "file": "renderer.js",
+    "text": "Server stack with cloud",
+    "source": "app/src/ui/tutorial/welcome.tsx",
+    "line": 44
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Desktop",
+    "source": "app/src/ui/tutorial/welcome.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": " helps you work with GitHub locally.",
+    "source": "app/src/ui/tutorial/welcome.tsx",
+    "line": 45
+  },
+  {
+    "file": "renderer.js",
+    "text": "Hands clapping",
+    "source": "app/src/ui/tutorial/done.tsx",
+    "line": 72
+  },
+  {
+    "file": "renderer.js",
+    "text": " branch-name-warning branch-name-error",
+    "source": "app/src/ui/lib/ref-name-text-box.tsx",
+    "line": 123
+  },
+  {
+    "file": "renderer.js",
+    "text": "Will be ",
+    "source": "app/src/ui/lib/ref-name-text-box.tsx",
+    "line": 243
+  },
+  {
+    "file": "renderer.js",
+    "text": " as",
+    "source": "app/src/ui/lib/ref-name-text-box.tsx",
+    "line": 243
+  },
+  {
+    "file": "renderer.js",
+    "text": "This branch is tracking ",
+    "source": "app/src/ui/lib/branch-name-warnings.tsx",
+    "line": 14
+  },
+  {
+    "file": "renderer.js",
+    "text": " and renaming this branch will not change the branch name on the remote.",
+    "source": "app/src/ui/lib/branch-name-warnings.tsx",
+    "line": 14
+  },
+  {
+    "file": "renderer.js",
+    "text": "Delete branch ",
+    "source": "app/src/ui/delete-branch/delete-branch-dialog.tsx",
+    "line": 53
+  },
+  {
+    "file": "renderer.js",
+    "text": "Delete remote branch ",
+    "source": "app/src/ui/delete-branch/delete-remote-branch-dialog.tsx",
+    "line": 47
+  },
+  {
+    "file": "renderer.js",
+    "text": "Cloning ",
+    "source": "app/src/ui/cloning-repository.tsx",
+    "line": 29
+  },
+  {
+    "file": "renderer.js",
+    "text": "Changes can be restored by retrieving them from the ",
+    "source": "app/src/ui/discard-changes/discard-changes-dialog.tsx",
+    "line": 92
+  },
+  {
+    "file": "renderer.js",
+    "text": "Are you sure you want to discard all ",
+    "source": "app/src/ui/discard-changes/discard-changes-dialog.tsx",
+    "line": 135
+  },
+  {
+    "file": "renderer.js",
+    "text": " changed files?",
+    "source": "app/src/ui/discard-changes/discard-changes-dialog.tsx",
+    "line": 135
+  },
+  {
+    "file": "renderer.js",
+    "text": "Welcome to ",
+    "source": "app/src/ui/welcome/start.tsx",
+    "line": 35
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Desktop",
+    "source": "app/src/ui/welcome/start.tsx",
+    "line": 36
+  },
+  {
+    "file": "renderer.js",
+    "text": "Sign in to GitHub.com",
+    "source": "app/src/ui/welcome/start.tsx",
+    "line": 51
+  },
+  {
+    "file": "renderer.js",
+    "text": "New to GitHub?",
+    "source": "app/src/ui/welcome/start.tsx",
+    "line": 72
+  },
+  {
+    "file": "renderer.js",
+    "text": "By creating an account, you agree to the",
+    "source": "app/src/ui/welcome/start.tsx",
+    "line": 88
+  },
+  {
+    "file": "renderer.js",
+    "text": ". For more information about GitHub's privacy practices, see the",
+    "source": "app/src/ui/welcome/start.tsx",
+    "line": 88
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Desktop sends usage metrics to improve the product and inform feature decisions.",
+    "source": "app/src/ui/welcome/start.tsx",
+    "line": 98
+  },
+  {
+    "file": "renderer.js",
+    "text": " Continue",
+    "source": "app/src/ui/lib/enterprise-server-entry.tsx",
+    "line": 67
+  },
+  {
+    "file": "renderer.js",
+    "text": "You're already signed in to",
+    "source": "app/src/ui/lib/sign-in.tsx",
+    "line": 38
+  },
+  {
+    "file": "renderer.js",
+    "text": " with the account",
+    "source": "app/src/ui/lib/sign-in.tsx",
+    "line": 38
+  },
+  {
+    "file": "renderer.js",
+    "text": ". If you continue, you will first be signed out.",
+    "source": "app/src/ui/lib/sign-in.tsx",
+    "line": 38
+  },
+  {
+    "file": "renderer.js",
+    "text": "Failed to update Git configuration file. A lock file already exists at",
+    "source": "app/src/ui/lib/config-lock-file-exists.tsx",
+    "line": 43
+  },
+  {
+    "file": "renderer.js",
+    "text": "This can happen if another tool is currently modifying the Git configuration or if a Git process has terminated earlier without cleaning up the lock file. Do you want to",
+    "source": "app/src/ui/lib/config-lock-file-exists.tsx",
+    "line": 47
+  },
+  {
+    "file": "renderer.js",
+    "text": "and try again?",
+    "source": "app/src/ui/lib/config-lock-file-exists.tsx",
+    "line": 47
+  },
+  {
+    "file": "renderer.js",
+    "text": "Example commit",
+    "source": "app/src/ui/lib/configure-git-user.tsx",
+    "line": 188
+  },
+  {
+    "file": "renderer.js",
+    "text": " is the same as ",
+    "source": "app/src/ui/welcome/welcome.tsx",
+    "line": 142
+  },
+  {
+    "file": "renderer.js",
+    "text": "An optimized version of GitHub Desktop is available for your",
+    "source": "app/src/ui/banners/update-available.tsx",
+    "line": 75
+  },
+  {
+    "file": "renderer.js",
+    "text": "Arm64",
+    "source": "app/src/ui/banners/update-available.tsx",
+    "line": 77
+  },
+  {
+    "file": "renderer.js",
+    "text": " machine and will be installed at the next launch or",
+    "source": "app/src/ui/banners/update-available.tsx",
+    "line": 75
+  },
+  {
+    "file": "renderer.js",
+    "text": "now.",
+    "source": "app/src/ui/banners/update-available.tsx",
+    "line": 75
+  },
+  {
+    "file": "renderer.js",
+    "text": "Exciting new features have been added",
+    "source": "app/src/ui/banners/update-available.tsx",
+    "line": 94
+  },
+  {
+    "file": "renderer.js",
+    "text": ". See",
+    "source": "app/src/ui/banners/update-available.tsx",
+    "line": 94
+  },
+  {
+    "file": "renderer.js",
+    "text": " or",
+    "source": "app/src/ui/banners/update-available.tsx",
+    "line": 94
+  },
+  {
+    "file": "renderer.js",
+    "text": "dismiss",
+    "source": "app/src/ui/banners/update-available.tsx",
+    "line": 104
+  },
+  {
+    "file": "renderer.js",
+    "text": "This version of GitHub Desktop is missing",
+    "source": "app/src/ui/banners/update-available.tsx",
+    "line": 114
+  },
+  {
+    "file": "renderer.js",
+    "text": ". Please",
+    "source": "app/src/ui/banners/update-available.tsx",
+    "line": 114
+  },
+  {
+    "file": "renderer.js",
+    "text": "now to install pending updates.",
+    "source": "app/src/ui/banners/update-available.tsx",
+    "line": 114
+  },
+  {
+    "file": "renderer.js",
+    "text": "An updated version of GitHub Desktop is available and will be installed at the next launch. See",
+    "source": "app/src/ui/banners/update-available.tsx",
+    "line": 133
+  },
+  {
+    "file": "renderer.js",
+    "text": "Resolve conflicts and commit to merge into",
+    "source": "app/src/ui/banners/merge-conflicts-banner.tsx",
+    "line": 36
+  },
+  {
+    "file": "renderer.js",
+    "text": "Resolve conflicts to continue rebasing",
+    "source": "app/src/ui/banners/rebase-conflicts-banner.tsx",
+    "line": 43
+  },
+  {
+    "file": "renderer.js",
+    "text": "Successfully copied ",
+    "source": "app/src/ui/banners/successful-cherry-pick.tsx",
+    "line": 23
+  },
+  {
+    "file": "renderer.js",
+    "text": " to",
+    "source": "app/src/ui/banners/successful-cherry-pick.tsx",
+    "line": 23
+  },
+  {
+    "file": "renderer.js",
+    "text": "Resolve conflicts to continue cherry-picking onto",
+    "source": "app/src/ui/banners/cherry-pick-conflicts-banner.tsx",
+    "line": 40
+  },
+  {
+    "file": "renderer.js",
+    "text": "Cherry-pick undone. Successfully removed the ",
+    "source": "app/src/ui/banners/cherry-pick-undone.tsx",
+    "line": 18
+  },
+  {
+    "file": "renderer.js",
+    "text": " copied ",
+    "source": "app/src/ui/banners/cherry-pick-undone.tsx",
+    "line": 20
+  },
+  {
+    "file": "renderer.js",
+    "text": "The Desktop team would like to thank you for your contributions.",
+    "source": "app/src/ui/banners/open-thank-you-card.tsx",
+    "line": 24
+  },
+  {
+    "file": "renderer.js",
+    "text": "or",
+    "source": "app/src/ui/banners/open-thank-you-card.tsx",
+    "line": 24
+  },
+  {
+    "file": "renderer.js",
+    "text": "Successfully squashed ",
+    "source": "app/src/ui/banners/successful-squash.tsx",
+    "line": 21
+  },
+  {
+    "file": "renderer.js",
+    "text": "Resolve conflicts to continue ",
+    "source": "app/src/ui/banners/conflicts-found-banner.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": "This operating system is no longer supported. Software updates have been disabled.",
+    "source": "app/src/ui/banners/os-version-no-longer-supported-banner.tsx",
+    "line": 21
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub.com",
+    "source": "app/src/ui/preferences/accounts.tsx",
+    "line": 37
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Enterprise",
+    "source": "app/src/ui/preferences/accounts.tsx",
+    "line": 42
+  },
+  {
+    "file": "renderer.js",
+    "text": " GitHub Enterprise",
+    "source": "app/src/ui/preferences/accounts.tsx",
+    "line": 138
+  },
+  {
+    "file": "renderer.js",
+    "text": "Git Credential Manager",
+    "source": "app/src/ui/preferences/advanced.tsx",
+    "line": 145
+  },
+  {
+    "file": "renderer.js",
+    "text": "main",
+    "source": "app/src/ui/preferences/git.tsx",
+    "line": 200
+  },
+  {
+    "file": "renderer.js",
+    "text": "master",
+    "source": "app/src/ui/preferences/git.tsx",
+    "line": 202
+  },
+  {
+    "file": "renderer.js",
+    "text": "No other editors found.",
+    "source": "app/src/ui/preferences/integrations.tsx",
+    "line": 244
+  },
+  {
+    "file": "renderer.js",
+    "text": "Install ",
+    "source": "app/src/ui/preferences/integrations.tsx",
+    "line": 246
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Copilot",
+    "source": "app/src/ui/lib/copilot-model-picker.tsx",
+    "line": 231
+  },
+  {
+    "file": "renderer.js",
+    "text": "AI credits per ",
+    "source": "app/src/ui/preferences/copilot-model-selection-info.tsx",
+    "line": 134
+  },
+  {
+    "file": "renderer.js",
+    "text": " tokens",
+    "source": "app/src/ui/preferences/copilot-model-selection-info.tsx",
+    "line": 134
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Enterprise",
+    "source": "app/src/ui/preferences/copilot.tsx",
+    "line": 121
+  },
+  {
+    "file": "renderer.js",
+    "text": "Copilot",
+    "source": "app/src/ui/preferences/preferences.tsx",
+    "line": 397
+  },
+  {
+    "file": "renderer.js",
+    "text": "Git",
+    "source": "app/src/ui/preferences/preferences.tsx",
+    "line": 402
+  },
+  {
+    "file": "renderer.js",
+    "text": "Azure",
+    "source": "app/src/ui/preferences/copilot-custom-providers-dialog.tsx",
+    "line": 112
+  },
+  {
+    "file": "renderer.js",
+    "text": "Anthropic",
+    "source": "app/src/ui/preferences/copilot-custom-providers-dialog.tsx",
+    "line": 114
+  },
+  {
+    "file": "renderer.js",
+    "text": "Azure",
+    "source": "app/src/ui/copilot/edit-byok-provider-dialog.tsx",
+    "line": 199
+  },
+  {
+    "file": "renderer.js",
+    "text": "Anthropic",
+    "source": "app/src/ui/copilot/edit-byok-provider-dialog.tsx",
+    "line": 200
+  },
+  {
+    "file": "renderer.js",
+    "text": "The exact name your provider expects (e.g. ",
+    "source": "app/src/ui/copilot/edit-byok-model-dialog.tsx",
+    "line": 95
+  },
+  {
+    "file": "renderer.js",
+    "text": "gpt-4o",
+    "source": "app/src/ui/copilot/edit-byok-model-dialog.tsx",
+    "line": 96
+  },
+  {
+    "file": "renderer.js",
+    "text": "llama3",
+    "source": "app/src/ui/copilot/edit-byok-model-dialog.tsx",
+    "line": 97
+  },
+  {
+    "file": "renderer.js",
+    "text": "Reasoning models (o1, o3, GPT-5 reasoning variants, etc.) think before responding. Higher levels are slower but produce better answers on complex tasks. Leave on ",
+    "source": "app/src/ui/copilot/edit-byok-model-dialog.tsx",
+    "line": 115
+  },
+  {
+    "file": "renderer.js",
+    "text": " for non-reasoning models or to let the provider pick.",
+    "source": "app/src/ui/copilot/edit-byok-model-dialog.tsx",
+    "line": 115
+  },
+  {
+    "file": "renderer.js",
+    "text": "Are you sure you want to remove the custom provider",
+    "source": "app/src/ui/copilot/confirm-delete-byok-provider-dialog.tsx",
+    "line": 31
+  },
+  {
+    "file": "renderer.js",
+    "text": "SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace, 'Apple Color Emoji', 'Segoe UI', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "source": "app/src/ui/get-monospace-font-family.ts",
+    "line": 5
+  },
+  {
+    "file": "renderer.js",
+    "text": "See",
+    "source": "app/src/ui/app-error.tsx",
+    "line": 121
+  },
+  {
+    "file": "renderer.js",
+    "text": "for more information on managing large files on GitHub",
+    "source": "app/src/ui/app-error.tsx",
+    "line": 121
+  },
+  {
+    "file": "renderer.js",
+    "text": "Would you like to retry cloning ",
+    "source": "app/src/ui/app-error.tsx",
+    "line": 199
+  },
+  {
+    "file": "renderer.js",
+    "text": " is potentially unsafe",
+    "source": "app/src/ui/missing-repository.tsx",
+    "line": 115
+  },
+  {
+    "file": "renderer.js",
+    "text": "The Git repository at ",
+    "source": "app/src/ui/missing-repository.tsx",
+    "line": 119
+  },
+  {
+    "file": "renderer.js",
+    "text": " appears to be owned by another user on your machine. Adding untrusted repositories may automatically execute files in the repository.",
+    "source": "app/src/ui/missing-repository.tsx",
+    "line": 119
+  },
+  {
+    "file": "renderer.js",
+    "text": "Can't find \"",
+    "source": "app/src/ui/missing-repository.tsx",
+    "line": 139
+  },
+  {
+    "file": "renderer.js",
+    "text": "It was last seen at",
+    "source": "app/src/ui/missing-repository.tsx",
+    "line": 140
+  },
+  {
+    "file": "renderer.js",
+    "text": "Check again.",
+    "source": "app/src/ui/missing-repository.tsx",
+    "line": 143
+  },
+  {
+    "file": "renderer.js",
+    "text": "The Git repository",
+    "source": "app/src/ui/add-repository/add-existing-repository.tsx",
+    "line": 147
+  },
+  {
+    "file": "renderer.js",
+    "text": " at ",
+    "source": "app/src/ui/add-repository/add-existing-repository.tsx",
+    "line": 151
+  },
+  {
+    "file": "renderer.js",
+    "text": "appears to be owned by another user on your machine. Adding untrusted repositories may automatically execute files in the repository.",
+    "source": "app/src/ui/add-repository/add-existing-repository.tsx",
+    "line": 147
+  },
+  {
+    "file": "renderer.js",
+    "text": "If you trust the owner of the directory you can",
+    "source": "app/src/ui/add-repository/add-existing-repository.tsx",
+    "line": 158
+  },
+  {
+    "file": "renderer.js",
+    "text": "add an exception for this directory",
+    "source": "app/src/ui/add-repository/add-existing-repository.tsx",
+    "line": 160
+  },
+  {
+    "file": "renderer.js",
+    "text": "in order to continue.",
+    "source": "app/src/ui/add-repository/add-existing-repository.tsx",
+    "line": 158
+  },
+  {
+    "file": "renderer.js",
+    "text": "Would you like to",
+    "source": "app/src/ui/add-repository/add-existing-repository.tsx",
+    "line": 184
+  },
+  {
+    "file": "renderer.js",
+    "text": "here instead?",
+    "source": "app/src/ui/add-repository/add-existing-repository.tsx",
+    "line": 184
+  },
+  {
+    "file": "renderer.js",
+    "text": "Unable to determine repository type",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 189
+  },
+  {
+    "file": "renderer.js",
+    "text": "createRepository: the directory at ",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 259
+  },
+  {
+    "file": "renderer.js",
+    "text": " is not valid",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 259
+  },
+  {
+    "file": "renderer.js",
+    "text": "createRepository: unable to initialize a Git repository at ",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 272
+  },
+  {
+    "file": "renderer.js",
+    "text": "createRepository: unable to write README at ",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 293
+  },
+  {
+    "file": "renderer.js",
+    "text": ". Only names returned from getGitIgnoreNames() can be used.",
+    "source": "app/src/ui/add-repository/gitignores.ts",
+    "line": 42
+  },
+  {
+    "file": "renderer.js",
+    "text": "createRepository: unable to write .gitignore file at ",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 304
+  },
+  {
+    "file": "renderer.js",
+    "text": "createRepository: unable to write .git/description file at ",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 317
+  },
+  {
+    "file": "renderer.js",
+    "text": "createRepository: unable to write LICENSE at ",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 342
+  },
+  {
+    "file": "renderer.js",
+    "text": "# Auto detect text files and perform LF normalization\n* text=auto\n",
+    "source": "app/src/ui/add-repository/git-attributes.ts",
+    "line": 10
+  },
+  {
+    "file": "renderer.js",
+    "text": "createRepository: unable to write .gitattributes at ",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 355
+  },
+  {
+    "file": "renderer.js",
+    "text": "createRepository: unable to get status for ",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 362
+  },
+  {
+    "file": "renderer.js",
+    "text": "Initial commit",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 376
+  },
+  {
+    "file": "renderer.js",
+    "text": "createRepository: initial commit failed at ",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 379
+  },
+  {
+    "file": "renderer.js",
+    "text": "appears to be a Git repository. Would you like to",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 497
+  },
+  {
+    "file": "renderer.js",
+    "text": "instead?",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 497
+  },
+  {
+    "file": "renderer.js",
+    "text": "appears to be a subfolder of Git repository.",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 522
+  },
+  {
+    "file": "renderer.js",
+    "text": "This directory contains a ",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 551
+  },
+  {
+    "file": "renderer.js",
+    "text": "README.md",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 557
+  },
+  {
+    "file": "renderer.js",
+    "text": " file already. Checking this box will result in the existing file being overwritten.",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 551
+  },
+  {
+    "file": "renderer.js",
+    "text": "The repository will be created at ",
+    "source": "app/src/ui/add-repository/create-repository.tsx",
+    "line": 572
+  },
+  {
+    "file": "renderer.js",
+    "text": "hubot/cool-repo",
+    "source": "app/src/ui/clone-repository/clone-generic-repository.tsx",
+    "line": 45
+  },
+  {
+    "file": "renderer.js",
+    "text": "Sorry, I can't find any repository matching",
+    "source": "app/src/ui/clone-repository/cloneable-repository-filter-list.tsx",
+    "line": 290
+  },
+  {
+    "file": "renderer.js",
+    "text": "Looks like there are no repositories for",
+    "source": "app/src/ui/clone-repository/cloneable-repository-filter-list.tsx",
+    "line": 300
+  },
+  {
+    "file": "renderer.js",
+    "text": " on ",
+    "source": "app/src/ui/clone-repository/cloneable-repository-filter-list.tsx",
+    "line": 300
+  },
+  {
+    "file": "renderer.js",
+    "text": "if you've created a repository recently.",
+    "source": "app/src/ui/clone-repository/cloneable-repository-filter-list.tsx",
+    "line": 300
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub.com",
+    "source": "app/src/ui/clone-repository/clone-repository.tsx",
+    "line": 277
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Enterprise",
+    "source": "app/src/ui/clone-repository/clone-repository.tsx",
+    "line": 278
+  },
+  {
+    "file": "renderer.js",
+    "text": "URL",
+    "source": "app/src/ui/clone-repository/clone-repository.tsx",
+    "line": 279
+  },
+  {
+    "file": "renderer.js",
+    "text": "CloneRepository: Path validation failed. Error: ",
+    "source": "app/src/ui/clone-repository/clone-repository.tsx",
+    "line": 719
+  },
+  {
+    "file": "renderer.js",
+    "text": "CloneRepository: clone failed to complete to ",
+    "source": "app/src/ui/clone-repository/clone-repository.tsx",
+    "line": 791
+  },
+  {
+    "file": "renderer.js",
+    "text": "Your new branch will be based on the commit '",
+    "source": "app/src/ui/create-branch/create-branch-dialog.tsx",
+    "line": 173
+  },
+  {
+    "file": "renderer.js",
+    "text": ") from your repository.",
+    "source": "app/src/ui/create-branch/create-branch-dialog.tsx",
+    "line": 173
+  },
+  {
+    "file": "renderer.js",
+    "text": "You do not currently have any branch checked out (your HEAD reference is detached). As such your new branch will be based on your currently checked out commit (",
+    "source": "app/src/ui/create-branch/create-branch-dialog.tsx",
+    "line": 180
+  },
+  {
+    "file": "renderer.js",
+    "text": " already exists on the remote.",
+    "source": "app/src/ui/lib/branch-name-warnings.tsx",
+    "line": 41
+  },
+  {
+    "file": "renderer.js",
+    "text": "create branch",
+    "source": "app/src/ui/create-branch/create-branch-dialog.tsx",
+    "line": 397
+  },
+  {
+    "file": "renderer.js",
+    "text": "Your new branch will be based on your currently checked out branch (",
+    "source": "app/src/ui/create-branch/create-branch-dialog.tsx",
+    "line": 431
+  },
+  {
+    "file": "renderer.js",
+    "text": " is the ",
+    "source": "app/src/ui/create-branch/create-branch-dialog.tsx",
+    "line": 435
+  },
+  {
+    "file": "renderer.js",
+    "text": " for your repository.",
+    "source": "app/src/ui/create-branch/create-branch-dialog.tsx",
+    "line": 435
+  },
+  {
+    "file": "renderer.js",
+    "text": "Your new branch will be based on",
+    "source": "app/src/ui/create-branch/create-branch-dialog.tsx",
+    "line": 487
+  },
+  {
+    "file": "renderer.js",
+    "text": "'s ",
+    "source": "app/src/ui/create-branch/create-branch-dialog.tsx",
+    "line": 487
+  },
+  {
+    "file": "renderer.js",
+    "text": "Your default branch source is determined by your",
+    "source": "app/src/ui/create-branch/create-branch-dialog.tsx",
+    "line": 527
+  },
+  {
+    "file": "renderer.js",
+    "text": " as determined by your",
+    "source": "app/src/ui/create-branch/create-branch-dialog.tsx",
+    "line": 543
+  },
+  {
+    "file": "renderer.js",
+    "text": "You're already signed in to",
+    "source": "app/src/ui/sign-in/sign-in.tsx",
+    "line": 157
+  },
+  {
+    "file": "renderer.js",
+    "text": " with the account",
+    "source": "app/src/ui/sign-in/sign-in.tsx",
+    "line": 157
+  },
+  {
+    "file": "renderer.js",
+    "text": ". If you continue, you will first be signed out.",
+    "source": "app/src/ui/sign-in/sign-in.tsx",
+    "line": 157
+  },
+  {
+    "file": "renderer.js",
+    "text": "Git requesting credentials to access",
+    "source": "app/src/ui/sign-in/sign-in.tsx",
+    "line": 186
+  },
+  {
+    "file": "renderer.js",
+    "text": "We were unable to locate Git on your system. This means you won't be able to execute any Git commands in the",
+    "source": "app/src/ui/install-git/install.tsx",
+    "line": 53
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Desktop",
+    "source": "app/src/ui/about/about.tsx",
+    "line": 273
+  },
+  {
+    "file": "renderer.js",
+    "text": "Keep this code private",
+    "source": "app/src/ui/publish-repository/publish-repository.tsx",
+    "line": 181
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub.com",
+    "source": "app/src/ui/publish-repository/publish.tsx",
+    "line": 156
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Enterprise",
+    "source": "app/src/ui/publish-repository/publish.tsx",
+    "line": 157
+  },
+  {
+    "file": "renderer.js",
+    "text": "Couldn't get the repository's description",
+    "source": "app/src/ui/publish-repository/publish.tsx",
+    "line": 189
+  },
+  {
+    "file": "renderer.js",
+    "text": "Couldn't parse licenses!",
+    "source": "app/src/ui/acknowledgements/acknowledgements.tsx",
+    "line": 55
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Desktop",
+    "source": "app/src/ui/acknowledgements/acknowledgements.tsx",
+    "line": 124
+  },
+  {
+    "file": "renderer.js",
+    "text": " is an open source project published under the MIT License. You can view the source code and contribute to this project on",
+    "source": "app/src/ui/acknowledgements/acknowledgements.tsx",
+    "line": 123
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub",
+    "source": "app/src/ui/acknowledgements/acknowledgements.tsx",
+    "line": 127
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Desktop cannot verify the identity of ",
+    "source": "app/src/ui/untrusted-certificate/untrusted-certificate.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": ". The certificate (",
+    "source": "app/src/ui/untrusted-certificate/untrusted-certificate.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": ") is invalid or untrusted.",
+    "source": "app/src/ui/untrusted-certificate/untrusted-certificate.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": "ProTip!",
+    "source": "app/src/ui/no-repositories/no-repositories-view.tsx",
+    "line": 369
+  },
+  {
+    "file": "renderer.js",
+    "text": " You can drag & drop an existing repository folder here to add it to Desktop",
+    "source": "app/src/ui/no-repositories/no-repositories-view.tsx",
+    "line": 368
+  },
+  {
+    "file": "renderer.js",
+    "text": "Are you sure you want to remove the repository \"",
+    "source": "app/src/ui/remove-repository/confirm-remove-repository.tsx",
+    "line": 68
+  },
+  {
+    "file": "renderer.js",
+    "text": "\" from GitHub Desktop?",
+    "source": "app/src/ui/remove-repository/confirm-remove-repository.tsx",
+    "line": 68
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Open Source Applications Terms and Conditions",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 24
+  },
+  {
+    "file": "renderer.js",
+    "text": "These GitHub Open Source Applications Terms and Conditions (\"Application Terms\") are a legal agreement between you (either as an individual or on behalf of an entity) and GitHub, Inc. regarding your use of GitHub's applications, such as GitHub Desktop™ and associated documentation (\"Software\"). These Application Terms apply to the executable code version of the Software. Source code for the Software is available separately and free of charge under open source software license agreements. If you do not agree to all of the terms in these Application Terms, do not download, install, use, or copy the Software.",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 29
+  },
+  {
+    "file": "renderer.js",
+    "text": "Connecting to GitHub",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 42
+  },
+  {
+    "file": "renderer.js",
+    "text": "If you configure the Software to work with one or more accounts on the GitHub.com website or with an instance of GitHub Enterprise Server, your use of the Software will also be governed your applicable GitHub.com website Terms of Service and/or the license agreement applicable to your instance of GitHub Enterprise (\"GitHub Terms\").",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 44
+  },
+  {
+    "file": "renderer.js",
+    "text": "Any use of the Software that violates your applicable GitHub Terms will also be a violation of these Application Terms.",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 53
+  },
+  {
+    "file": "renderer.js",
+    "text": "Open Source Licenses and Notices",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 58
+  },
+  {
+    "file": "renderer.js",
+    "text": "The open source license for the Software is included in the \"Open Source Notices\" documentation that is included with the Software. That documentation also includes copies of all applicable open source licenses.",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 60
+  },
+  {
+    "file": "renderer.js",
+    "text": "To the extent the terms of the licenses applicable to open source components require GitHub to make an offer to provide source code in connection with the Software, such offer is hereby made, and you may exercise it by contacting GitHub:",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 67
+  },
+  {
+    "file": "renderer.js",
+    "text": "contact",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 72
+  },
+  {
+    "file": "renderer.js",
+    "text": "Unless otherwise agreed to in writing with GitHub, your agreement with GitHub will always include, at a minimum, these Application Terms. Open source software licenses for the Software's source code constitute separate written agreements. To the limited extent that the open source software licenses expressly supersede these Application Terms, the open source licenses govern your agreement with GitHub for the use of the Software or specific included components of the Software.",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 75
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub's Logos",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 86
+  },
+  {
+    "file": "renderer.js",
+    "text": "The license grant included with the Software is not for GitHub's trademarks, which include the Software logo designs. GitHub reserves all trademark and copyright rights in and to all GitHub trademarks. GitHub's logos include, for instance, the stylized designs that include \"logo\" in the file title in the \"logos\" folder.",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 88
+  },
+  {
+    "file": "renderer.js",
+    "text": "The names GitHub, GitHub Desktop, GitHub for Mac, GitHub for Windows, Atom, the Octocat, and related GitHub logos and/or stylized names are trademarks of GitHub. You agree not to display or use these trademarks in any manner without GitHub's prior, written permission, except as allowed by GitHub's Logos and Usage Policy:",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 96
+  },
+  {
+    "file": "renderer.js",
+    "text": "logos",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 102
+  },
+  {
+    "file": "renderer.js",
+    "text": "Privacy",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 105
+  },
+  {
+    "file": "renderer.js",
+    "text": "The Software may collect personal information. You may control what information the Software collects in the settings panel. If the Software does collect personal information on GitHub's behalf, GitHub will process that information in accordance with the",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 107
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Privacy Statement",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 112
+  },
+  {
+    "file": "renderer.js",
+    "text": "Additional Services",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 118
+  },
+  {
+    "file": "renderer.js",
+    "text": "Auto-Update Services",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 120
+  },
+  {
+    "file": "renderer.js",
+    "text": "The Software may include an auto-update service (\"Service\"). If you choose to use the Service or you download Software that automatically enables the Service, GitHub will automatically update the Software when a new version is available.",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 122
+  },
+  {
+    "file": "renderer.js",
+    "text": "Disclaimers and Limitations of Liability",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 129
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. GitHub shall not be liable to you or to any third-party for any price change, suspension or discontinuance of the Service.",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 161
+  },
+  {
+    "file": "renderer.js",
+    "text": "Miscellanea",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 169
+  },
+  {
+    "file": "renderer.js",
+    "text": "No Waiver. The failure of GitHub to exercise or enforce any right or provision of these Application Terms shall not constitute a waiver of such right or provision.",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 172
+  },
+  {
+    "file": "renderer.js",
+    "text": "Entire Agreement. These Application Terms, together with any applicable Privacy Notices, constitutes the entire agreement between you and GitHub and governs your use of the Software, superseding any prior agreements between you and GitHub (including, but not limited to, any prior versions of the Application Terms).",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 178
+  },
+  {
+    "file": "renderer.js",
+    "text": "Governing Law. You agree that these Application Terms and your use of the Software are governed under California law and any dispute related to the Software must be brought in a tribunal of competent jurisdiction located in or near San Francisco, California.",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 187
+  },
+  {
+    "file": "renderer.js",
+    "text": "Third-Party Packages. The Software supports third-party \"Packages\" which may modify, add, remove, or alter the functionality of the Software. These Packages are not covered by these Application Terms and may include their own license which governs your use of that particular package.",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 194
+  },
+  {
+    "file": "renderer.js",
+    "text": "License to GitHub Policies. These Application Terms are licensed under the",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 215
+  },
+  {
+    "file": "renderer.js",
+    "text": "Creative Commons Attribution license",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 218
+  },
+  {
+    "file": "renderer.js",
+    "text": ". You may use it freely under the terms of the Creative Commons license.",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 215
+  },
+  {
+    "file": "renderer.js",
+    "text": "Contact Us. Please send any questions about these Application Terms to ",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 225
+  },
+  {
+    "file": "renderer.js",
+    "text": "support@github.com",
+    "source": "app/src/ui/terms-and-conditions/terms-and-conditions.tsx",
+    "line": 227
+  },
+  {
+    "file": "renderer.js",
+    "text": "The command line tool has been installed at",
+    "source": "app/src/ui/cli-installed/cli-installed.tsx",
+    "line": 24
+  },
+  {
+    "file": "renderer.js",
+    "text": "We were unable to authenticate with",
+    "source": "app/src/ui/generic-git-auth/generic-git-auth.tsx",
+    "line": 56
+  },
+  {
+    "file": "renderer.js",
+    "text": ". Please enter",
+    "source": "app/src/ui/generic-git-auth/generic-git-auth.tsx",
+    "line": 56
+  },
+  {
+    "file": "renderer.js",
+    "text": "the password for the user ",
+    "source": "app/src/ui/generic-git-auth/generic-git-auth.tsx",
+    "line": 60
+  },
+  {
+    "file": "renderer.js",
+    "text": "to try again.",
+    "source": "app/src/ui/generic-git-auth/generic-git-auth.tsx",
+    "line": 56
+  },
+  {
+    "file": "renderer.js",
+    "text": "Depending on your repository's hosting service, you might need to use a Personal Access Token (PAT) as your password. Learn more about creating a PAT in our",
+    "source": "app/src/ui/generic-git-auth/generic-git-auth.tsx",
+    "line": 90
+  },
+  {
+    "file": "renderer.js",
+    "text": " repositories use",
+    "source": "app/src/ui/lfs/initialize-lfs.tsx",
+    "line": 63
+  },
+  {
+    "file": "renderer.js",
+    "text": "Git LFS",
+    "source": "app/src/ui/lfs/initialize-lfs.tsx",
+    "line": 65
+  },
+  {
+    "file": "renderer.js",
+    "text": ". To contribute to them, Git LFS must first be initialized. Would you like to do so now?",
+    "source": "app/src/ui/lfs/initialize-lfs.tsx",
+    "line": 63
+  },
+  {
+    "file": "renderer.js",
+    "text": ". To contribute to",
+    "source": "app/src/ui/lfs/initialize-lfs.tsx",
+    "line": 77
+  },
+  {
+    "file": "renderer.js",
+    "text": ", Git LFS must first be initialized. Would you like to do so now?",
+    "source": "app/src/ui/lfs/initialize-lfs.tsx",
+    "line": 77
+  },
+  {
+    "file": "renderer.js",
+    "text": "Git LFS filters are already configured in",
+    "source": "app/src/ui/lfs/attribute-mismatch.tsx",
+    "line": 30
+  },
+  {
+    "file": "renderer.js",
+    "text": "but are not the values it expects. Would you like to update them now?",
+    "source": "app/src/ui/lfs/attribute-mismatch.tsx",
+    "line": 30
+  },
+  {
+    "file": "renderer.js",
+    "text": "A repository must have a GitHub repository to add an upstream remote",
+    "source": "app/src/ui/upstream-already-exists/upstream-already-exists.tsx",
+    "line": 31
+  },
+  {
+    "file": "renderer.js",
+    "text": "A repository must have a parent repository to add an upstream remote",
+    "source": "app/src/ui/upstream-already-exists/upstream-already-exists.tsx",
+    "line": 35
+  },
+  {
+    "file": "renderer.js",
+    "text": "The repository ",
+    "source": "app/src/ui/upstream-already-exists/upstream-already-exists.tsx",
+    "line": 51
+  },
+  {
+    "file": "renderer.js",
+    "text": " is a fork of",
+    "source": "app/src/ui/upstream-already-exists/upstream-already-exists.tsx",
+    "line": 51
+  },
+  {
+    "file": "renderer.js",
+    "text": ", but its ",
+    "source": "app/src/ui/upstream-already-exists/upstream-already-exists.tsx",
+    "line": 51
+  },
+  {
+    "file": "renderer.js",
+    "text": "remote points elsewhere.",
+    "source": "app/src/ui/upstream-already-exists/upstream-already-exists.tsx",
+    "line": 51
+  },
+  {
+    "file": "renderer.js",
+    "text": "Current: ",
+    "source": "app/src/ui/upstream-already-exists/upstream-already-exists.tsx",
+    "line": 57
+  },
+  {
+    "file": "renderer.js",
+    "text": "Expected: ",
+    "source": "app/src/ui/upstream-already-exists/upstream-already-exists.tsx",
+    "line": 60
+  },
+  {
+    "file": "renderer.js",
+    "text": "Release notes generated from markdown",
+    "source": "app/src/ui/release-notes/release-notes-dialog.tsx",
+    "line": 124
+  },
+  {
+    "file": "renderer.js",
+    "text": "If",
+    "source": "app/src/ui/delete-branch/delete-pull-request-dialog.tsx",
+    "line": 33
+  },
+  {
+    "file": "renderer.js",
+    "text": "has been merged, you can also go to GitHub to delete the remote branch.",
+    "source": "app/src/ui/delete-branch/delete-pull-request-dialog.tsx",
+    "line": 33
+  },
+  {
+    "file": "renderer.js",
+    "text": "The following files are over 100MB.",
+    "source": "app/src/ui/changes/oversized-files-warning.tsx",
+    "line": 38
+  },
+  {
+    "file": "renderer.js",
+    "text": "We recommend you avoid committing these files or use",
+    "source": "app/src/ui/changes/oversized-files-warning.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": "Git LFS",
+    "source": "app/src/ui/changes/oversized-files-warning.tsx",
+    "line": 48
+  },
+  {
+    "file": "renderer.js",
+    "text": " to store large files on GitHub.",
+    "source": "app/src/ui/changes/oversized-files-warning.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": " Your current stash will be overwritten by creating a new stash",
+    "source": "app/src/ui/stash-changes/stash-and-switch-branch-dialog.tsx",
+    "line": 90
+  },
+  {
+    "file": "renderer.js",
+    "text": "stash and checkout",
+    "source": "app/src/ui/stash-changes/stash-and-switch-branch-dialog.tsx",
+    "line": 148
+  },
+  {
+    "file": "renderer.js",
+    "text": "This will create a repository on your local machine, and push it to your account ",
+    "source": "app/src/ui/no-repositories/create-tutorial-repository-dialog.tsx",
+    "line": 83
+  },
+  {
+    "file": "renderer.js",
+    "text": " on",
+    "source": "app/src/ui/no-repositories/create-tutorial-repository-dialog.tsx",
+    "line": 83
+  },
+  {
+    "file": "renderer.js",
+    "text": ". This repository will only be visible to you, and not visible publicly.",
+    "source": "app/src/ui/no-repositories/create-tutorial-repository-dialog.tsx",
+    "line": 83
+  },
+  {
+    "file": "renderer.js",
+    "text": "The push was rejected by the server for containing a modification to the workflow file ",
+    "source": "app/src/ui/workflow-push-rejected/workflow-push-rejected.tsx",
+    "line": 44
+  },
+  {
+    "file": "renderer.js",
+    "text": ". In order to be able to push to workflow files GitHub Desktop needs to request additional permissions.",
+    "source": "app/src/ui/workflow-push-rejected/workflow-push-rejected.tsx",
+    "line": 44
+  },
+  {
+    "file": "renderer.js",
+    "text": "The \"",
+    "source": "app/src/ui/saml-reauth-required/saml-reauth-required.tsx",
+    "line": 49
+  },
+  {
+    "file": "renderer.js",
+    "text": "\" organization has enabled or enforced SAML SSO. To access this repository, you must sign in again and grant GitHub Desktop permission to access the organization's repositories.",
+    "source": "app/src/ui/saml-reauth-required/saml-reauth-required.tsx",
+    "line": 49
+  },
+  {
+    "file": "renderer.js",
+    "text": "Fork creation through API failed (",
+    "source": "app/src/ui/forks/create-fork-dialog.tsx",
+    "line": 71
+  },
+  {
+    "file": "renderer.js",
+    "text": " failed. ",
+    "source": "app/src/ui/forks/create-fork-dialog.tsx",
+    "line": 165
+  },
+  {
+    "file": "renderer.js",
+    "text": "The tag name cannot be longer than ",
+    "source": "app/src/ui/create-tag/create-tag-dialog.tsx",
+    "line": 119
+  },
+  {
+    "file": "renderer.js",
+    "text": " characters",
+    "source": "app/src/ui/create-tag/create-tag-dialog.tsx",
+    "line": 119
+  },
+  {
+    "file": "renderer.js",
+    "text": "A tag named ",
+    "source": "app/src/ui/create-tag/create-tag-dialog.tsx",
+    "line": 127
+  },
+  {
+    "file": "renderer.js",
+    "text": " already exists",
+    "source": "app/src/ui/create-tag/create-tag-dialog.tsx",
+    "line": 127
+  },
+  {
+    "file": "renderer.js",
+    "text": "create tag",
+    "source": "app/src/ui/create-tag/create-tag-dialog.tsx",
+    "line": 158
+  },
+  {
+    "file": "renderer.js",
+    "text": "Are you sure you want to delete the tag",
+    "source": "app/src/ui/delete-tag/delete-tag-dialog.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": "We will help you contribute to the",
+    "source": "app/src/ui/choose-fork-settings/choose-fork-settings-dialog.tsx",
+    "line": 53
+  },
+  {
+    "file": "renderer.js",
+    "text": "repository",
+    "source": "app/src/ui/choose-fork-settings/choose-fork-settings-dialog.tsx",
+    "line": 53
+  },
+  {
+    "file": "renderer.js",
+    "text": "Unable to ",
+    "source": "app/src/ui/local-changes-overwritten/local-changes-overwritten-dialog.tsx",
+    "line": 71
+  },
+  {
+    "file": "renderer.js",
+    "text": " when changes are present on your branch.",
+    "source": "app/src/ui/local-changes-overwritten/local-changes-overwritten-dialog.tsx",
+    "line": 71
+  },
+  {
+    "file": "renderer.js",
+    "text": "discard changes",
+    "source": "app/src/ui/local-changes-overwritten/local-changes-overwritten-dialog.tsx",
+    "line": 208
+  },
+  {
+    "file": "renderer.js",
+    "text": "restore stashed changes",
+    "source": "app/src/ui/local-changes-overwritten/local-changes-overwritten-dialog.tsx",
+    "line": 210
+  },
+  {
+    "file": "renderer.js",
+    "text": "Move GitHub Desktop to the Applications folder?",
+    "source": "app/src/ui/move-to-applications-folder.tsx",
+    "line": 38
+  },
+  {
+    "file": "renderer.js",
+    "text": "We've detected that you're not running GitHub Desktop from the Applications folder of your machine. This could cause problems with the app, including impacting your ability to sign in.",
+    "source": "app/src/ui/move-to-applications-folder.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": "Do you want to move GitHub Desktop to the Applications folder now? This will also restart the app.",
+    "source": "app/src/ui/move-to-applications-folder.tsx",
+    "line": 51
+  },
+  {
+    "file": "renderer.js",
+    "text": "Move and Restart",
+    "source": "app/src/ui/move-to-applications-folder.tsx",
+    "line": 76
+  },
+  {
+    "file": "renderer.js",
+    "text": "This will move GitHub Desktop to the Applications folder in your machine and restart the app.",
+    "source": "app/src/ui/move-to-applications-folder.tsx",
+    "line": 77
+  },
+  {
+    "file": "renderer.js",
+    "text": "Choose a new alias for the repository \"",
+    "source": "app/src/ui/change-repository-alias/change-repository-alias-dialog.tsx",
+    "line": 44
+  },
+  {
+    "file": "renderer.js",
+    "text": "Thanks so much for all your hard work on GitHub Desktop",
+    "source": "app/src/ui/thank-you/thank-you.tsx",
+    "line": 93
+  },
+  {
+    "file": "renderer.js",
+    "text": ". We're so grateful for your willingness to contribute and make the app better for everyone!",
+    "source": "app/src/ui/thank-you/thank-you.tsx",
+    "line": 93
+  },
+  {
+    "file": "renderer.js",
+    "text": "ConflictsDialog: onSubmit failed",
+    "source": "app/src/ui/multi-commit-operation/dialog/conflicts-dialog.tsx",
+    "line": 138
+  },
+  {
+    "file": "renderer.js",
+    "text": "ConflictsDialog: onAbort failed",
+    "source": "app/src/ui/multi-commit-operation/dialog/conflicts-dialog.tsx",
+    "line": 154
+  },
+  {
+    "file": "renderer.js",
+    "text": "Resolve",
+    "source": "app/src/ui/lib/conflicts/unmerged-file.tsx",
+    "line": 230
+  },
+  {
+    "file": "renderer.js",
+    "text": "your tool of choice, or close to resolve manually.",
+    "source": "app/src/ui/lib/conflicts/render-functions.tsx",
+    "line": 28
+  },
+  {
+    "file": "renderer.js",
+    "text": " been resolved.",
+    "source": "app/src/ui/multi-commit-operation/dialog/conflicts-dialog.tsx",
+    "line": 256
+  },
+  {
+    "file": "renderer.js",
+    "text": "Cannot resolve while operation is being aborted",
+    "source": "app/src/ui/multi-commit-operation/dialog/conflicts-dialog.tsx",
+    "line": 294
+  },
+  {
+    "file": "renderer.js",
+    "text": "Are you sure you want to abort this ",
+    "source": "app/src/ui/multi-commit-operation/dialog/confirm-abort-dialog.tsx",
+    "line": 69
+  },
+  {
+    "file": "renderer.js",
+    "text": "Commit ",
+    "source": "app/src/ui/multi-commit-operation/dialog/progress-dialog.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": " of ",
+    "source": "app/src/ui/multi-commit-operation/dialog/progress-dialog.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": "Are you sure you want to ",
+    "source": "app/src/ui/multi-commit-operation/dialog/warn-force-push-dialog.tsx",
+    "line": 58
+  },
+  {
+    "file": "renderer.js",
+    "text": "At the end of the ",
+    "source": "app/src/ui/multi-commit-operation/dialog/warn-force-push-dialog.tsx",
+    "line": 61
+  },
+  {
+    "file": "renderer.js",
+    "text": " flow, GitHub Desktop will enable you to force push the branch to update the upstream branch. Force pushing will alter the history on the remote and potentially cause problems for others collaborating on this branch.",
+    "source": "app/src/ui/multi-commit-operation/dialog/warn-force-push-dialog.tsx",
+    "line": 61
+  },
+  {
+    "file": "renderer.js",
+    "text": "Stop",
+    "source": "app/src/ui/multi-commit-operation/dialog/copilot-conflicts-loading-dialog.tsx",
+    "line": 463
+  },
+  {
+    "file": "renderer.js",
+    "text": "Merging ",
+    "source": "app/src/ui/multi-commit-operation/dialog/copilot-conflicts-resolution-summary.tsx",
+    "line": 39
+  },
+  {
+    "file": "renderer.js",
+    "text": "Cherry-picking from ",
+    "source": "app/src/ui/multi-commit-operation/dialog/copilot-conflicts-resolution-summary.tsx",
+    "line": 51
+  },
+  {
+    "file": "renderer.js",
+    "text": "Squashing into ",
+    "source": "app/src/ui/multi-commit-operation/dialog/copilot-conflicts-resolution-summary.tsx",
+    "line": 57
+  },
+  {
+    "file": "renderer.js",
+    "text": "Reordering ",
+    "source": "app/src/ui/multi-commit-operation/dialog/copilot-conflicts-resolution-summary.tsx",
+    "line": 63
+  },
+  {
+    "file": "renderer.js",
+    "text": "Copilot",
+    "source": "app/src/ui/multi-commit-operation/dialog/copilot-resolution-helpers.ts",
+    "line": 14
+  },
+  {
+    "file": "renderer.js",
+    "text": " on ",
+    "source": "app/src/ui/multi-commit-operation/dialog/copilot-resolution-helpers.ts",
+    "line": 83
+  },
+  {
+    "file": "renderer.js",
+    "text": " files changed",
+    "source": "app/src/ui/multi-commit-operation/dialog/copilot-conflicts-changes.tsx",
+    "line": 375
+  },
+  {
+    "file": "renderer.js",
+    "text": " Conflicted files",
+    "source": "app/src/ui/multi-commit-operation/dialog/copilot-conflicts-dialog.tsx",
+    "line": 514
+  },
+  {
+    "file": "renderer.js",
+    "text": " Skipped by Copilot",
+    "source": "app/src/ui/multi-commit-operation/dialog/copilot-conflicts-dialog.tsx",
+    "line": 604
+  },
+  {
+    "file": "renderer.js",
+    "text": "] - Invalid state - ",
+    "source": "app/src/ui/multi-commit-operation/base-multi-commit-operation.tsx",
+    "line": 110
+  },
+  {
+    "file": "renderer.js",
+    "text": " ended during ",
+    "source": "app/src/ui/multi-commit-operation/base-multi-commit-operation.tsx",
+    "line": 110
+  },
+  {
+    "file": "renderer.js",
+    "text": "squashing commits on",
+    "source": "app/src/ui/multi-commit-operation/squash.tsx",
+    "line": 5
+  },
+  {
+    "file": "renderer.js",
+    "text": "Merge into ",
+    "source": "app/src/ui/multi-commit-operation/choose-branch/merge-choose-branch-dialog.tsx",
+    "line": 96
+  },
+  {
+    "file": "renderer.js",
+    "text": "is already up to date with ",
+    "source": "app/src/ui/multi-commit-operation/choose-branch/merge-choose-branch-dialog.tsx",
+    "line": 185
+  },
+  {
+    "file": "renderer.js",
+    "text": "This will merge",
+    "source": "app/src/ui/multi-commit-operation/choose-branch/merge-choose-branch-dialog.tsx",
+    "line": 195
+  },
+  {
+    "file": "renderer.js",
+    "text": "There will be",
+    "source": "app/src/ui/multi-commit-operation/choose-branch/merge-choose-branch-dialog.tsx",
+    "line": 221
+  },
+  {
+    "file": "renderer.js",
+    "text": "reordering commits on",
+    "source": "app/src/ui/multi-commit-operation/reorder.tsx",
+    "line": 5
+  },
+  {
+    "file": "renderer.js",
+    "text": " to a branch",
+    "source": "app/src/ui/multi-commit-operation/choose-branch/choose-target-branch.tsx",
+    "line": 193
+  },
+  {
+    "file": "renderer.js",
+    "text": "Rebase ",
+    "source": "app/src/ui/multi-commit-operation/choose-branch/rebase-choose-branch-dialog.tsx",
+    "line": 110
+  },
+  {
+    "file": "renderer.js",
+    "text": "This will fast-forward ",
+    "source": "app/src/ui/multi-commit-operation/choose-branch/rebase-choose-branch-dialog.tsx",
+    "line": 168
+  },
+  {
+    "file": "renderer.js",
+    "text": " by",
+    "source": "app/src/ui/multi-commit-operation/choose-branch/rebase-choose-branch-dialog.tsx",
+    "line": 168
+  },
+  {
+    "file": "renderer.js",
+    "text": "This will update ",
+    "source": "app/src/ui/multi-commit-operation/choose-branch/rebase-choose-branch-dialog.tsx",
+    "line": 181
+  },
+  {
+    "file": "renderer.js",
+    "text": "is already up to date with ",
+    "source": "app/src/ui/multi-commit-operation/choose-branch/rebase-choose-branch-dialog.tsx",
+    "line": 194
+  },
+  {
+    "file": "renderer.js",
+    "text": "Undoing a merge commit will apply the changes from the merge into\n    your working directory, and committing again will create an entirely new\n    commit. This means you will lose the merge commit and, as a result, commits\n    from the merged branch could disappear from this branch.",
+    "source": "app/src/ui/undo/warn-local-changes-before-undo.tsx",
+    "line": 110
+  },
+  {
+    "file": "renderer.js",
+    "text": "Your account token has been invalidated and you have been signed out from your ",
+    "source": "app/src/ui/invalidated-token/invalidated-token.tsx",
+    "line": 33
+  },
+  {
+    "file": "renderer.js",
+    "text": " account. Do you want to sign in again?",
+    "source": "app/src/ui/invalidated-token/invalidated-token.tsx",
+    "line": 33
+  },
+  {
+    "file": "renderer.js",
+    "text": "The authenticity of host '",
+    "source": "app/src/ui/ssh/add-ssh-host.tsx",
+    "line": 29
+  },
+  {
+    "file": "renderer.js",
+    "text": ")' can't be established. ",
+    "source": "app/src/ui/ssh/add-ssh-host.tsx",
+    "line": 29
+  },
+  {
+    "file": "renderer.js",
+    "text": " key fingerprint is",
+    "source": "app/src/ui/ssh/add-ssh-host.tsx",
+    "line": 29
+  },
+  {
+    "file": "renderer.js",
+    "text": "A force push will rewrite history on",
+    "source": "app/src/ui/rebase/confirm-force-push.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": ". Any collaborators working on this branch will need to reset their own local branch to match the history of the remote.",
+    "source": "app/src/ui/rebase/confirm-force-push.tsx",
+    "line": 46
+  },
+  {
+    "file": "renderer.js",
+    "text": " failed in your pull request",
+    "source": "app/src/ui/notifications/pull-request-checks-failed.tsx",
+    "line": 106
+  },
+  {
+    "file": "renderer.js",
+    "text": "Do you want to switch to that Pull Request now and start fixing",
+    "source": "app/src/ui/notifications/pull-request-checks-failed.tsx",
+    "line": 159
+  },
+  {
+    "file": "renderer.js",
+    "text": "these workflows",
+    "source": "app/src/ui/check-runs/ci-check-run-rerun-dialog.tsx",
+    "line": 159
+  },
+  {
+    "file": "renderer.js",
+    "text": "A new attempt of ",
+    "source": "app/src/ui/check-runs/ci-check-run-rerun-dialog.tsx",
+    "line": 165
+  },
+  {
+    "file": "renderer.js",
+    "text": " will be started, including all of ",
+    "source": "app/src/ui/check-runs/ci-check-run-rerun-dialog.tsx",
+    "line": 165
+  },
+  {
+    "file": "renderer.js",
+    "text": "dependents:",
+    "source": "app/src/ui/check-runs/ci-check-run-rerun-dialog.tsx",
+    "line": 165
+  },
+  {
+    "file": "renderer.js",
+    "text": "failed ",
+    "source": "app/src/ui/check-runs/ci-check-run-rerun-dialog.tsx",
+    "line": 185
+  },
+  {
+    "file": "renderer.js",
+    "text": "There are no ",
+    "source": "app/src/ui/check-runs/ci-check-run-rerun-dialog.tsx",
+    "line": 184
+  },
+  {
+    "file": "renderer.js",
+    "text": "There ",
+    "source": "app/src/ui/check-runs/ci-check-run-rerun-dialog.tsx",
+    "line": 187
+  },
+  {
+    "file": "renderer.js",
+    "text": " that cannot be re-run",
+    "source": "app/src/ui/check-runs/ci-check-run-rerun-dialog.tsx",
+    "line": 189
+  },
+  {
+    "file": "renderer.js",
+    "text": ". A check run cannot be re-run if the check is more than one month old,\n          the check or its dependent has not completed, or the check is not configured to be\n          re-run.",
+    "source": "app/src/ui/check-runs/ci-check-run-rerun-dialog.tsx",
+    "line": 194
+  },
+  {
+    "file": "renderer.js",
+    "text": "single ",
+    "source": "app/src/ui/check-runs/ci-check-run-rerun-dialog.tsx",
+    "line": 208
+  },
+  {
+    "file": "renderer.js",
+    "text": "Failed to discard changes to ",
+    "source": "app/src/ui/discard-changes/discard-changes-retry-dialog.tsx",
+    "line": 48
+  },
+  {
+    "file": "renderer.js",
+    "text": "Common reasons are:",
+    "source": "app/src/ui/discard-changes/discard-changes-retry-dialog.tsx",
+    "line": 49
+  },
+  {
+    "file": "renderer.js",
+    "text": "The ",
+    "source": "app/src/ui/discard-changes/discard-changes-retry-dialog.tsx",
+    "line": 52
+  },
+  {
+    "file": "renderer.js",
+    "text": " is configured to delete items immediately.",
+    "source": "app/src/ui/discard-changes/discard-changes-retry-dialog.tsx",
+    "line": 52
+  },
+  {
+    "file": "renderer.js",
+    "text": "These changes will be unrecoverable from the ",
+    "source": "app/src/ui/discard-changes/discard-changes-retry-dialog.tsx",
+    "line": 58
+  },
+  {
+    "file": "renderer.js",
+    "text": " your pull request",
+    "source": "app/src/ui/notifications/pull-request-comment-like.tsx",
+    "line": 116
+  },
+  {
+    "file": "renderer.js",
+    "text": "Pull request markdown comment",
+    "source": "app/src/ui/notifications/pull-request-comment-like.tsx",
+    "line": 179
+  },
+  {
+    "file": "renderer.js",
+    "text": "base:",
+    "source": "app/src/ui/branches/branch-select.tsx",
+    "line": 114
+  },
+  {
+    "file": "renderer.js",
+    "text": "Merge ",
+    "source": "app/src/ui/open-pull-request/open-pull-request-header.tsx",
+    "line": 89
+  },
+  {
+    "file": "renderer.js",
+    "text": " into",
+    "source": "app/src/ui/open-pull-request/open-pull-request-header.tsx",
+    "line": 89
+  },
+  {
+    "file": "renderer.js",
+    "text": "from ",
+    "source": "app/src/ui/open-pull-request/open-pull-request-header.tsx",
+    "line": 89
+  },
+  {
+    "file": "renderer.js",
+    "text": " added lines",
+    "source": "app/src/ui/open-pull-request/open-pull-request-header.tsx",
+    "line": 110
+  },
+  {
+    "file": "renderer.js",
+    "text": " removed lines",
+    "source": "app/src/ui/open-pull-request/open-pull-request-header.tsx",
+    "line": 112
+  },
+  {
+    "file": "renderer.js",
+    "text": " Don’t worry, you can still create the pull request.",
+    "source": "app/src/ui/open-pull-request/pull-request-merge-status.tsx",
+    "line": 26
+  },
+  {
+    "file": "renderer.js",
+    "text": " Unable to merge unrelated histories in this repository",
+    "source": "app/src/ui/open-pull-request/pull-request-merge-status.tsx",
+    "line": 33
+  },
+  {
+    "file": "renderer.js",
+    "text": " Able to merge.",
+    "source": "app/src/ui/open-pull-request/pull-request-merge-status.tsx",
+    "line": 41
+  },
+  {
+    "file": "renderer.js",
+    "text": "These branches can be automatically merged.",
+    "source": "app/src/ui/open-pull-request/pull-request-merge-status.tsx",
+    "line": 40
+  },
+  {
+    "file": "renderer.js",
+    "text": " Can't automatically merge.",
+    "source": "app/src/ui/open-pull-request/pull-request-merge-status.tsx",
+    "line": 50
+  },
+  {
+    "file": "renderer.js",
+    "text": "Don’t worry, you can still create the pull request.",
+    "source": "app/src/ui/open-pull-request/pull-request-merge-status.tsx",
+    "line": 49
+  },
+  {
+    "file": "renderer.js",
+    "text": " is up to date with all commits from",
+    "source": "app/src/ui/open-pull-request/open-pull-request-dialog.tsx",
+    "line": 209
+  },
+  {
+    "file": "renderer.js",
+    "text": " and ",
+    "source": "app/src/ui/open-pull-request/open-pull-request-dialog.tsx",
+    "line": 214
+  },
+  {
+    "file": "renderer.js",
+    "text": " are entirely different commit histories.",
+    "source": "app/src/ui/open-pull-request/open-pull-request-dialog.tsx",
+    "line": 214
+  },
+  {
+    "file": "renderer.js",
+    "text": "Select a base branch above.",
+    "source": "app/src/ui/open-pull-request/open-pull-request-dialog.tsx",
+    "line": 239
+  },
+  {
+    "file": "renderer.js",
+    "text": " users weren't found and won't be added as co-authors of this commit. Are you sure you want to commit?",
+    "source": "app/src/ui/unknown-authors/unknown-authors-dialog.tsx",
+    "line": 49
+  },
+  {
+    "file": "renderer.js",
+    "text": "Icon Preview",
+    "source": "app/src/ui/octicons/icon-preview-dialog.tsx",
+    "line": 16
+  },
+  {
+    "file": "renderer.js",
+    "text": "You have a filter applied. There are",
+    "source": "app/src/ui/changes/confirm-commit-filtered-changes-dialog.tsx",
+    "line": 45
+  },
+  {
+    "file": "renderer.js",
+    "text": "that will be committed. Are you sure you want to commit these changes?",
+    "source": "app/src/ui/changes/confirm-commit-filtered-changes-dialog.tsx",
+    "line": 45
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Desktop",
+    "source": "app/src/ui/lib/app-proxy.ts",
+    "line": 38
+  },
+  {
+    "file": "renderer.js",
+    "text": "at line ",
+    "source": "app/src/ui/secret-scanning/push-protection-error-location.tsx",
+    "line": 52
+  },
+  {
+    "file": "renderer.js",
+    "text": "found secret(s) in the commit(s) you attempted to push.",
+    "source": "app/src/ui/secret-scanning/push-protection-error-dialog.tsx",
+    "line": 85
+  },
+  {
+    "file": "renderer.js",
+    "text": "Allowing secrets risks exposure. Consider",
+    "source": "app/src/ui/secret-scanning/push-protection-error-dialog.tsx",
+    "line": 91
+  },
+  {
+    "file": "renderer.js",
+    "text": "Exposing this secret can allow someone to:",
+    "source": "app/src/ui/secret-scanning/push-protection-error-dialog.tsx",
+    "line": 84
+  },
+  {
+    "file": "renderer.js",
+    "text": "Tip: You can use",
+    "source": "app/src/ui/generate-commit-message/generate-commit-message-override-warning.tsx",
+    "line": 65
+  },
+  {
+    "file": "renderer.js",
+    "text": "to customize how commit messages are generated.",
+    "source": "app/src/ui/generate-commit-message/generate-commit-message-override-warning.tsx",
+    "line": 65
+  },
+  {
+    "file": "renderer.js",
+    "text": "GitHub Copilot",
+    "source": "app/src/ui/copilot/copilot-disclaimer.tsx",
+    "line": 40
+  },
+  {
+    "file": "renderer.js",
+    "text": "Copilot is powered by AI, so mistakes are possible.",
+    "source": "app/src/ui/copilot/copilot-disclaimer.tsx",
+    "line": 48
+  },
+  {
+    "file": "renderer.js",
+    "text": "Would you like to automatically start with Copilot whenever conflicts are detected? You can change this anytime in",
+    "source": "app/src/ui/multi-commit-operation/dialog/copilot-conflict-resolution-always-nudge.tsx",
+    "line": 39
+  },
+  {
+    "file": "renderer.js",
+    "text": "The ",
+    "source": "app/src/ui/hook-failed/hook-failed.tsx",
+    "line": 43
+  },
+  {
+    "file": "renderer.js",
+    "text": " hook failed. What would you like to do?",
+    "source": "app/src/ui/hook-failed/hook-failed.tsx",
+    "line": 43
+  },
+  {
+    "file": "renderer.js",
+    "text": "Will check out remote branch ",
+    "source": "app/src/ui/worktrees/add-worktree-dialog.tsx",
+    "line": 153
+  },
+  {
+    "file": "renderer.js",
+    "text": "Will check out existing branch ",
+    "source": "app/src/ui/worktrees/add-worktree-dialog.tsx",
+    "line": 157
+  },
+  {
+    "file": "renderer.js",
+    "text": "Worktree will be created at ",
+    "source": "app/src/ui/worktrees/add-worktree-dialog.tsx",
+    "line": 173
+  },
+  {
+    "file": "renderer.js",
+    "text": "Are you sure you want to delete the worktree ",
+    "source": "app/src/ui/worktrees/delete-worktree-dialog.tsx",
+    "line": 56
+  },
+  {
+    "file": "renderer.js",
+    "text": "Deleting the worktree ",
+    "source": "app/src/ui/worktrees/delete-worktree-failed-dialog.tsx",
+    "line": 62
+  },
+  {
+    "file": "renderer.js",
+    "text": " failed.",
+    "source": "app/src/ui/worktrees/delete-worktree-failed-dialog.tsx",
+    "line": 62
+  },
+  {
+    "file": "renderer.js",
+    "text": "Would you like to forcefully delete the worktree ",
+    "source": "app/src/ui/worktrees/delete-worktree-failed-dialog.tsx",
+    "line": 66
+  },
+  {
+    "file": "renderer.js",
+    "text": "App ready time: ",
+    "source": "app/src/ui/app.tsx",
+    "line": 354
+  },
+  {
+    "file": "renderer.js",
+    "text": "Load time: ",
+    "source": "app/src/ui/app.tsx",
+    "line": 355
+  },
+  {
+    "file": "renderer.js",
+    "text": "Renderer ready time: ",
+    "source": "app/src/ui/app.tsx",
+    "line": 356
+  },
+  {
+    "file": "renderer.js",
+    "text": "Could not determine repository type",
+    "source": "app/src/ui/app.tsx",
+    "line": 1253
+  },
+  {
+    "file": "renderer.js",
+    "text": "#repository-sidebar button.commit-button",
+    "source": "app/src/ui/app.tsx",
+    "line": 1511
+  },
+  {
+    "file": "renderer.js",
+    "text": "Could not securely connect to the server, because its certificate is not trusted. Attackers might be trying to steal your information.\n\nTo connect unsafely, which may put your data at risk, you can “Always trust” the certificate and try again.",
+    "source": "app/src/ui/app.tsx",
+    "line": 1533
+  },
+  {
+    "file": "renderer.js",
+    "text": "Attempted to open a popup of type '",
+    "source": "app/src/ui/app.tsx",
+    "line": 1632
+  },
+  {
+    "file": "renderer.js",
+    "text": "' without an Id",
+    "source": "app/src/ui/app.tsx",
+    "line": 1632
+  },
+  {
+    "file": "renderer.js",
+    "text": "Squash of ",
+    "source": "app/src/ui/banners/render-banner.tsx",
+    "line": 126
+  },
+  {
+    "file": "renderer.js",
+    "text": " undone.",
+    "source": "app/src/ui/banners/render-banner.tsx",
+    "line": 126
+  },
+  {
+    "file": "renderer.js",
+    "text": "Successfully reordered ",
+    "source": "app/src/ui/banners/render-banner.tsx",
+    "line": 145
+  },
+  {
+    "file": "renderer.js",
+    "text": "Reorder of ",
+    "source": "app/src/ui/banners/render-banner.tsx",
+    "line": 154
+  },
+  {
+    "file": "renderer.js",
+    "text": "Tip is not in a valid state, which is required to start the cherry-pick flow",
+    "source": "app/src/ui/app.tsx",
+    "line": 4136
+  },
+  {
+    "file": "renderer.js",
+    "text": "Uncaught exception",
+    "source": "app/src/ui/index.tsx",
+    "line": 126
+  },
+  {
+    "file": "renderer.js",
+    "text": "ResizeObserver loop completed with undelivered notifications.",
+    "source": "app/src/ui/index.tsx",
+    "line": 190
+  },
+  {
+    "file": "renderer.js",
+    "text": "Database",
+    "source": "app/src/ui/index.tsx",
+    "line": 273
+  },
+  {
+    "file": "renderer.js",
+    "text": "URL action ",
+    "source": "app/src/ui/index.tsx",
+    "line": 388
+  },
+  {
+    "file": "renderer.js",
+    "text": "CLI action ",
+    "source": "app/src/ui/index.tsx",
+    "line": 394
+  }
+]

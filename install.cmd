@@ -1,0 +1,6 @@
+@echo off
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0scripts\install.ps1" %*
+set "patchExitCode=%ERRORLEVEL%"
+if not "%patchExitCode%"=="0" echo Installation failed. No need to run as administrator. Read the error above.
+pause
+exit /b %patchExitCode%

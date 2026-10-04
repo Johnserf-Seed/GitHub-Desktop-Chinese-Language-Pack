@@ -1,0 +1,4 @@
+dist/
+work/
+node_modules/
+*.tmp
