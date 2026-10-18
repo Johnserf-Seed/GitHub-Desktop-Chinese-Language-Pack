@@ -77,6 +77,10 @@ function eligible(node, parent, ancestors, origin) {
   if (!value.trim() || (!/[A-Za-z]/.test(value) && !['(', ')', ' ('].includes(value))) return false
   // This locale is consumed only by the app's relative-time display formatter.
   if (origin.source === 'app/src/lib/format-relative.ts' && value === 'en-US' && parent?.type === 'CallExpression' && parent.arguments[0] === node) return true
+  // CI descriptions return display labels; API conclusion values and switch cases stay unchanged.
+  if (origin.source === 'app/src/lib/ci-checks/ci-checks.ts' &&
+      (parent?.type === 'ReturnStatement' ||
+       (parent?.type === 'ConditionalExpression' && ['in', 'after'].includes(value)))) return true
   if (['Property', 'MethodDefinition', 'PropertyDefinition'].includes(parent?.type) && parent.key === node) return false
   if (parent?.type === 'ExpressionStatement' && parent.directive) return false
   if (parent?.type === 'MemberExpression' && parent.property === node) return false

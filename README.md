@@ -1,20 +1,20 @@
 # GitHub Desktop 汉化包 · Chinese Language Pack（简体中文）
 
-[![GitHub Desktop 3.6.6](https://img.shields.io/badge/GitHub_Desktop-3.6.6-blue)](app-3.6.6/)
+[![GitHub Desktop 3.6.7](https://img.shields.io/badge/GitHub_Desktop-3.6.7-blue)](app-3.6.7/)
 [![生成汉化包](https://github.com/Johnserf-Seed/GitHub-Desktop-Chinese-Language-Pack/actions/workflows/update-language-pack.yml/badge.svg?branch=main)](https://github.com/Johnserf-Seed/GitHub-Desktop-Chinese-Language-Pack/actions/workflows/update-language-pack.yml)
 [![MIT License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-**GitHub Desktop 简体中文汉化包（Chinese Language Pack）**，为 Windows 用户提供中文界面、本机一键生成工具和 GitHub Actions 定时更新。当前仓库提供 **GitHub Desktop 3.6.6 Windows x64** 的现成翻译包，生成与安装可以分别执行。
+**GitHub Desktop 简体中文汉化包（Chinese Language Pack）**，为 Windows 用户提供中文界面、本机一键生成工具和 GitHub Actions 定时更新。当前仓库提供 **GitHub Desktop 3.6.7 Windows x64** 的现成翻译包，生成与安装可以分别执行。
 
 覆盖菜单、仓库和分支操作、提交与差异、设置、Copilot 和工作树等常用界面；支持原版备份、恢复英文版，并在“帮助 → 关于”显示可点击的汉化作者主页。
 
-[下载项目 ZIP](https://github.com/Johnserf-Seed/GitHub-Desktop-Chinese-Language-Pack/archive/refs/heads/main.zip) · [查看 3.6.6 翻译包](app-3.6.6/) · [下载自动生成的包](https://github.com/Johnserf-Seed/GitHub-Desktop-Chinese-Language-Pack/actions/workflows/update-language-pack.yml) · [效果截图](#汉化效果截图) · [安装说明](#安装当前翻译包) · [生成新版](#本机一键生成)
+[下载项目 ZIP](https://github.com/Johnserf-Seed/GitHub-Desktop-Chinese-Language-Pack/archive/refs/heads/main.zip) · [查看 3.6.7 翻译包](app-3.6.7/) · [下载自动生成的包](https://github.com/Johnserf-Seed/GitHub-Desktop-Chinese-Language-Pack/actions/workflows/update-language-pack.yml) · [效果截图](#汉化效果截图) · [安装说明](#安装当前翻译包) · [生成新版](#本机一键生成)
 
-Simplified Chinese localization for GitHub Desktop on Windows. Includes a prebuilt 3.6.6 language pack, a local package generator, a weekly GitHub Actions workflow, and manual install/restore scripts. Existing translations are reused for newer versions; new interface text may need review.
+Simplified Chinese localization for GitHub Desktop on Windows. Includes a prebuilt 3.6.7 language pack, a local package generator, a weekly GitHub Actions workflow, and manual install/restore scripts. Existing translations are reused for newer versions; new interface text may need review.
 
 ## 汉化效果截图
 
-以下截图来自 GitHub Desktop 3.6.6 Windows x64 的实际汉化界面。点击图片可查看大图。
+以下截图来自 GitHub Desktop 3.6.6 Windows x64 的实际汉化界面，作为界面示例；当前下载包适用于 3.6.7。点击图片可查看大图。
 
 **仓库主界面**：中文菜单、提交区域、编辑器选择提示和操作快捷键。
 
@@ -37,9 +37,11 @@ Simplified Chinese localization for GitHub Desktop on Windows. Includes a prebui
 
 </details>
 
+3.6.7 已补充“始终显示工作树列表”、Copilot 集成菜单与应用路径提示、企业服务器登录确认和检查状态等中文文案。
+
 ## 安装当前翻译包
 
-1. 下载上面的项目 ZIP，或在 Actions 中下载自动生成的包。解压后进入包含 `manifest.json` 和 `install.cmd` 的 `app-3.6.6/` 目录；Actions 下载包内的 ZIP 也需要解压。
+1. 下载上面的项目 ZIP，或在 Actions 中下载自动生成的包。解压后进入包含 `manifest.json` 和 `install.cmd` 的 `app-3.6.7/` 目录；Actions 下载包内的 ZIP 也需要解压。
 2. 正常退出 GitHub Desktop，双击包中的 `install.cmd`。
 3. 安装成功后重新启动 GitHub Desktop。
 
@@ -47,7 +49,9 @@ Simplified Chinese localization for GitHub Desktop on Windows. Includes a prebui
 
 需要恢复英文版时，退出程序，双击同一包中的 `restore.cmd`。原版备份会保留在对应版本的 `resources/app/.zh-cn-backup/` 中。请保留安装时使用的翻译包，以便恢复。
 
-每个包仅适用于对应版本。原来的 `app-3.1.6/` 保留供旧版本使用，不能用于 3.6.6。
+每个包仅适用于对应版本。`app-3.6.6/` 和 `app-3.1.6/` 保留供相应旧版本使用，不能用于 3.6.7。
+
+如果 GitHub Desktop 已从 3.6.6 升级到 3.6.7，可以直接使用 3.6.7 包安装，无需先恢复旧版本。新版本会单独保留自己的原版备份。
 
 更新同一版本的汉化包时，请正常退出 GitHub Desktop，先运行新包中的 `restore.cmd`，再运行 `install.cmd`。有有效备份时，新包可以恢复此前由此工具安装的汉化；发现其他文件改动时会停止。
 
@@ -58,7 +62,7 @@ Simplified Chinese localization for GitHub Desktop on Windows. Includes a prebui
 需要指定翻译包时，可以使用：
 
 ```powershell
-.\scripts\install.ps1 -PackagePath '.\app-3.6.6'
+.\scripts\install.ps1 -PackagePath '.\app-3.6.7'
 ```
 
 `restore.ps1` 同样支持 `-PackagePath`。如果曾使用不同内容的同版本包安装，请指定安装时保留的原包进行恢复。
@@ -72,7 +76,7 @@ Simplified Chinese localization for GitHub Desktop on Windows. Includes a prebui
 也可以指定版本目录：
 
 ```powershell
-.\scripts\generate.ps1 -AppPath 'C:\Users\你的用户名\AppData\Local\GitHubDesktop\app-3.6.6'
+.\scripts\generate.ps1 -AppPath 'C:\Users\你的用户名\AppData\Local\GitHubDesktop\app-3.6.7'
 ```
 
 如果这个版本已经安装过汉化，请先使用原翻译包恢复英文版，再重新生成。

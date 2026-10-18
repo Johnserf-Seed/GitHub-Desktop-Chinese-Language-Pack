@@ -1096,6 +1096,13 @@
       ]
     },
     {
+      "text": "Action required",
+      "translation": "需要操作",
+      "sources": [
+        "app/src/lib/ci-checks/ci-checks.ts"
+      ]
+    },
+    {
       "text": "Add",
       "translation": "添加",
       "sources": [
@@ -1269,6 +1276,13 @@
       ]
     },
     {
+      "text": "after",
+      "translation": "耗时",
+      "sources": [
+        "app/src/lib/ci-checks/ci-checks.ts"
+      ]
+    },
+    {
       "text": "after commit ",
       "translation": "在以下提交之后：",
       "sources": [
@@ -1346,6 +1360,13 @@
       ]
     },
     {
+      "text": "Already installed it? Let us know where in",
+      "translation": "如果已经安装，请在以下位置指定应用路径：",
+      "sources": [
+        "app/src/ui/copilot-app/copilot-app-not-found-dialog.tsx"
+      ]
+    },
+    {
       "text": "Also move this repository to ",
       "translation": "同时将此仓库移动到 ",
       "sources": [
@@ -1357,6 +1378,13 @@
       "translation": "始终将更改带到新分支",
       "sources": [
         "app/src/ui/preferences/prompts.tsx"
+      ]
+    },
+    {
+      "text": "Always show worktree list",
+      "translation": "始终显示工作树列表",
+      "sources": [
+        "app/src/ui/preferences/appearance.tsx"
       ]
     },
     {
@@ -1448,6 +1476,13 @@
       "translation": "API 密钥",
       "sources": [
         "app/src/ui/copilot/edit-byok-provider-dialog.tsx"
+      ]
+    },
+    {
+      "text": "App location",
+      "translation": "应用位置",
+      "sources": [
+        "app/src/ui/preferences/integrations.tsx"
       ]
     },
     {
@@ -1773,6 +1808,13 @@
       ]
     },
     {
+      "text": "Canceled",
+      "translation": "已取消",
+      "sources": [
+        "app/src/lib/ci-checks/ci-checks.ts"
+      ]
+    },
+    {
       "text": "Cannot publish detached HEAD",
       "translation": "无法发布分离 HEAD",
       "sources": [
@@ -1951,6 +1993,13 @@
       ]
     },
     {
+      "text": "Checks: ",
+      "translation": "检查：",
+      "sources": [
+        "app/src/ui/branches/ci-status.tsx"
+      ]
+    },
+    {
       "text": "Cherry-pick",
       "translation": "拣选",
       "sources": [
@@ -2023,6 +2072,20 @@
       ]
     },
     {
+      "text": "Choose GitHub Copilot",
+      "translation": "选择 GitHub Copilot",
+      "sources": [
+        "app/src/ui/preferences/integrations.tsx"
+      ]
+    },
+    {
+      "text": "Choose the GitHub Copilot executable (github.exe).",
+      "translation": "请选择 GitHub Copilot 可执行文件（github.exe）。",
+      "sources": [
+        "app/src/ui/preferences/preferences.tsx"
+      ]
+    },
+    {
       "text": "Choose…",
       "translation": "选择…",
       "sources": [
@@ -2030,7 +2093,8 @@
         "app/src/ui/add-repository/add-existing-repository.tsx",
         "app/src/ui/lib/repository-path.tsx",
         "app/src/ui/clone-repository/clone-generic-repository.tsx",
-        "app/src/ui/clone-repository/clone-github-repository.tsx"
+        "app/src/ui/clone-repository/clone-github-repository.tsx",
+        "app/src/ui/preferences/integrations.tsx"
       ]
     },
     {
@@ -2428,6 +2492,13 @@
       ]
     },
     {
+      "text": "Confirm this address appears in your browser. Otherwise, cancel and contact your repository administrator.",
+      "translation": "请确认浏览器中显示的是此地址；否则请取消并联系仓库管理员。",
+      "sources": [
+        "app/src/ui/lib/enterprise-server-confirmation.tsx"
+      ]
+    },
+    {
       "text": "Conflict resolution",
       "translation": "冲突解决",
       "sources": [
@@ -2694,6 +2765,13 @@
       "translation": "无法确定上次检查更新的时间。你可能正在使用旧版本。请手动检查更新；如果问题仍然存在，请联系 GitHub 支持。",
       "sources": [
         "app/src/ui/about/about.tsx"
+      ]
+    },
+    {
+      "text": "Couldn't find the GitHub Copilot App on your machine. Experience agent-driven development built natively on GitHub by",
+      "translation": "未在本机找到 GitHub Copilot 应用。想体验 GitHub 原生的智能体开发方式，你可以",
+      "sources": [
+        "app/src/ui/copilot-app/copilot-app-not-found-dialog.tsx"
       ]
     },
     {
@@ -3246,6 +3324,13 @@
       ]
     },
     {
+      "text": "Diff tab size",
+      "translation": "差异视图制表符宽度",
+      "sources": [
+        "app/src/ui/preferences/appearance.tsx"
+      ]
+    },
+    {
       "text": "Difference",
       "translation": "差异比较",
       "sources": [
@@ -3437,6 +3522,13 @@
       "translation": "下载 ",
       "sources": [
         "app/src/ui/editor/editor-error.tsx"
+      ]
+    },
+    {
+      "text": "downloading GitHub Copilot",
+      "translation": "下载 GitHub Copilot",
+      "sources": [
+        "app/src/ui/copilot-app/copilot-app-not-found-dialog.tsx"
       ]
     },
     {
@@ -3742,6 +3834,13 @@
       ]
     },
     {
+      "text": "Experience agent-driven development built natively on GitHub.",
+      "translation": "体验 GitHub 原生的智能体开发方式。",
+      "sources": [
+        "app/src/ui/preferences/integrations.tsx"
+      ]
+    },
+    {
       "text": "Explore projects on GitHub",
       "translation": "探索 GitHub 上的项目",
       "sources": [
@@ -3760,6 +3859,13 @@
       "translation": "外部编辑器",
       "sources": [
         "app/src/ui/preferences/integrations.tsx"
+      ]
+    },
+    {
+      "text": "Failed",
+      "translation": "失败",
+      "sources": [
+        "app/src/lib/ci-checks/ci-checks.ts"
       ]
     },
     {
@@ -4082,6 +4188,13 @@
       "translation": "Git 已配置为转换它们",
       "sources": [
         "app/src/ui/diff/diff-contents-warning.tsx"
+      ]
+    },
+    {
+      "text": "Git is requesting permission to sign in to this server:",
+      "translation": "Git 正在请求登录以下服务器的权限：",
+      "sources": [
+        "app/src/ui/lib/enterprise-server-confirmation.tsx"
       ]
     },
     {
@@ -4412,6 +4525,20 @@
       ]
     },
     {
+      "text": "in",
+      "translation": "用时",
+      "sources": [
+        "app/src/lib/ci-checks/ci-checks.ts"
+      ]
+    },
+    {
+      "text": "In progress",
+      "translation": "进行中",
+      "sources": [
+        "app/src/lib/ci-checks/ci-checks.ts"
+      ]
+    },
+    {
       "text": "In some cases, this may be expected. For example:",
       "translation": "在某些情况下，这可能符合预期。例如：",
       "sources": [
@@ -4702,6 +4829,13 @@
       ]
     },
     {
+      "text": "Learn more about GitHub Copilot",
+      "translation": "了解 GitHub Copilot",
+      "sources": [
+        "app/src/ui/preferences/integrations.tsx"
+      ]
+    },
+    {
       "text": "Learn more about gitignore files",
       "translation": "了解 gitignore 文件",
       "sources": [
@@ -4924,6 +5058,13 @@
       ]
     },
     {
+      "text": "Marked as stale",
+      "translation": "已标记为过期",
+      "sources": [
+        "app/src/lib/ci-checks/ci-checks.ts"
+      ]
+    },
+    {
       "text": "Merge",
       "translation": "合并",
       "sources": [
@@ -4944,6 +5085,13 @@
       "sources": [
         "app/src/ui/history/merge-call-to-action-with-conflicts.tsx",
         "app/src/ui/multi-commit-operation/choose-branch/base-choose-branch-dialog.tsx"
+      ]
+    },
+    {
+      "text": "Miscellaneous",
+      "translation": "其他",
+      "sources": [
+        "app/src/ui/preferences/appearance.tsx"
       ]
     },
     {
@@ -5043,6 +5191,13 @@
       "translation": "网络与凭据",
       "sources": [
         "app/src/ui/preferences/advanced.tsx"
+      ]
+    },
+    {
+      "text": "Neutral",
+      "translation": "中立",
+      "sources": [
+        "app/src/lib/ci-checks/ci-checks.ts"
       ]
     },
     {
@@ -5409,6 +5564,13 @@
       ]
     },
     {
+      "text": "Only continue if you recognize and trust this server.",
+      "translation": "仅在你认识并信任此服务器时继续。",
+      "sources": [
+        "app/src/ui/lib/enterprise-server-confirmation.tsx"
+      ]
+    },
+    {
       "text": "Only whitespace changes found",
       "translation": "只有空白字符更改",
       "sources": [
@@ -5506,6 +5668,13 @@
       "translation": "在外部编辑器中打开",
       "sources": [
         "app/src/ui/lib/context-menu.ts"
+      ]
+    },
+    {
+      "text": "Open in GitHub &Copilot",
+      "translation": "在 GitHub Copilot 中打开(&C)",
+      "sources": [
+        "app/src/main-process/menu/build-default-menu.ts"
       ]
     },
     {
@@ -5738,6 +5907,13 @@
       ]
     },
     {
+      "text": "path to github.exe",
+      "translation": "github.exe 的路径",
+      "sources": [
+        "app/src/ui/preferences/integrations.tsx"
+      ]
+    },
+    {
       "text": "Permanently discard changes",
       "translation": "永久丢弃更改",
       "sources": [
@@ -5805,6 +5981,13 @@
       "translation": "优先显示具体日期",
       "sources": [
         "app/src/ui/preferences/appearance.tsx"
+      ]
+    },
+    {
+      "text": "Preferences",
+      "translation": "选项",
+      "sources": [
+        "app/src/ui/copilot-app/copilot-app-not-found-dialog.tsx"
       ]
     },
     {
@@ -7098,6 +7281,13 @@
       ]
     },
     {
+      "text": "Skipped",
+      "translation": "已跳过",
+      "sources": [
+        "app/src/lib/ci-checks/ci-checks.ts"
+      ]
+    },
+    {
       "text": "Some checks haven't completed yet",
       "translation": "部分检查尚未完成",
       "sources": [
@@ -7295,6 +7485,13 @@
       "translation": "子模块更改",
       "sources": [
         "app/src/ui/diff/submodule-diff.tsx"
+      ]
+    },
+    {
+      "text": "Successful",
+      "translation": "成功",
+      "sources": [
+        "app/src/lib/ci-checks/ci-checks.ts"
       ]
     },
     {
@@ -7932,6 +8129,13 @@
       "translation": "时间格式",
       "sources": [
         "app/src/ui/preferences/appearance.tsx"
+      ]
+    },
+    {
+      "text": "Timed out",
+      "translation": "已超时",
+      "sources": [
+        "app/src/lib/ci-checks/ci-checks.ts"
       ]
     },
     {
