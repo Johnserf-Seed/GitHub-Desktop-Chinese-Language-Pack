@@ -55,7 +55,7 @@ function sourceLookup(mapPath) {
       if (line[mid].column <= loc.column) { result = line[mid]; low = mid + 1 } else high = mid - 1
     }
     return result?.source === undefined ? null : {
-      source: map.sources[result.source].replace(/^webpack:\/\/(?:\/)?\.\//, ''),
+      source: map.sources[result.source].replace(/^webpack:\/\/(?:[^/]*\/)?\.\//, ''),
       line: result.originalLine + 1,
       column: result.originalColumn,
     }

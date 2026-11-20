@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "product": "GitHub Desktop",
+  "version": "3.7.0",
+  "locale": "zh-CN",
+  "translationAuthor": "Johnserf-Seed",
+  "translationAuthorUrl": "https://github.com/Johnserf-Seed",
+  "dictionarySha256": "7860cbc839782aae463a38927fec71009e192efa767f107e075757cd3b05df06",
+  "files": {
+    "main.js": {
+      "originalSha256": "ae4dd2496f252800ec602b72e33ca833b22e3a0c4b11004e7c345e7a7e72c69b",
+      "translatedSha256": "56f6600f1b18e20acbbc776aa26a2fac2af6db53f7f8a01f71ba14246d622e03",
+      "occurrences": 79
+    },
+    "renderer.js": {
+      "originalSha256": "2205b9ef6abb65e8dfdae4fbefcf943bc8e9f0d07f3979a4b602444e9f31a754",
+      "translatedSha256": "73daac635078fc3be56044909959c468d75d8e55de8c049ef15ecf297c6331d3",
+      "occurrences": 1647
+    }
+  }
+}

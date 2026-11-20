@@ -342,7 +342,8 @@
       "text": " of ",
       "translation": " / ",
       "sources": [
-        "app/src/ui/changes/filter-changes-list.tsx"
+        "app/src/ui/changes/filter-changes-list.tsx",
+        "app/src/ui/changes/copilot-commit-panel.tsx"
       ]
     },
     {
@@ -1078,7 +1079,9 @@
       "text": "Account",
       "translation": "账户",
       "sources": [
-        "app/src/ui/account-picker.tsx"
+        "app/src/ui/account-picker.tsx",
+        "app/src/ui/repositories-list/repository-list-item-context-menu.ts",
+        "app/src/ui/repository-settings/repository-settings.tsx"
       ]
     },
     {
@@ -1797,7 +1800,8 @@
         "app/src/ui/welcome/configure-git.tsx",
         "app/src/ui/discard-changes/discard-changes-retry-dialog.tsx",
         "app/src/ui/open-pull-request/open-pull-request-dialog.tsx",
-        "app/src/ui/changes/confirm-commit-filtered-changes-dialog.tsx"
+        "app/src/ui/changes/confirm-commit-filtered-changes-dialog.tsx",
+        "app/src/ui/changes/copilot-commit-panel.tsx"
       ]
     },
     {
@@ -3439,7 +3443,8 @@
       "sources": [
         "app/src/ui/notifications/pull-request-checks-failed.tsx",
         "app/src/ui/notifications/pull-request-review.tsx",
-        "app/src/ui/notifications/pull-request-comment.tsx"
+        "app/src/ui/notifications/pull-request-comment.tsx",
+        "app/src/ui/changes/copilot-commit-panel.tsx"
       ]
     },
     {
@@ -3894,7 +3899,8 @@
       "text": "file",
       "translation": "个文件",
       "sources": [
-        "app/src/ui/changes/commit-message.tsx"
+        "app/src/ui/changes/commit-message.tsx",
+        "app/src/ui/changes/copilot-commit-panel.tsx"
       ]
     },
     {
@@ -3951,7 +3957,8 @@
       "text": "files",
       "translation": "个文件",
       "sources": [
-        "app/src/ui/changes/commit-message.tsx"
+        "app/src/ui/changes/commit-message.tsx",
+        "app/src/ui/changes/copilot-commit-panel.tsx"
       ]
     },
     {
@@ -6477,7 +6484,8 @@
         "app/src/ui/repositories-list/repository-list-item-context-menu.ts",
         "app/src/ui/copilot/confirm-delete-byok-provider-dialog.tsx",
         "app/src/ui/missing-repository.tsx",
-        "app/src/ui/remove-repository/confirm-remove-repository.tsx"
+        "app/src/ui/remove-repository/confirm-remove-repository.tsx",
+        "app/src/ui/worktrees/delete-worktree-dialog.tsx"
       ]
     },
     {
@@ -6485,7 +6493,8 @@
       "translation": "移除 ",
       "sources": [
         "app/src/ui/preferences/copilot-custom-providers-dialog.tsx",
-        "app/src/ui/copilot/edit-byok-provider-dialog.tsx"
+        "app/src/ui/copilot/edit-byok-provider-dialog.tsx",
+        "app/src/ui/lib/author-input/author-handle.tsx"
       ]
     },
     {
@@ -7204,7 +7213,8 @@
       "sources": [
         "app/src/ui/clone-repository/clone-repository.tsx",
         "app/src/ui/sign-in/sign-in.tsx",
-        "app/src/ui/publish-repository/publish.tsx"
+        "app/src/ui/publish-repository/publish.tsx",
+        "app/src/ui/repository-account/repository-account-dialog.tsx"
       ]
     },
     {
@@ -7225,7 +7235,9 @@
       "text": "Sign in to GitHub Enterprise",
       "translation": "登录 GitHub Enterprise",
       "sources": [
-        "app/src/ui/welcome/start.tsx"
+        "app/src/ui/welcome/start.tsx",
+        "app/src/ui/clone-repository/clone-repository.tsx",
+        "app/src/ui/publish-repository/publish.tsx"
       ]
     },
     {
@@ -7263,7 +7275,8 @@
       "text": "Sign out",
       "translation": "退出登录",
       "sources": [
-        "app/src/ui/preferences/accounts.tsx"
+        "app/src/ui/preferences/accounts.tsx",
+        "app/src/ui/repository-account/confirm-account-sign-out.tsx"
       ]
     },
     {
@@ -9169,6 +9182,602 @@
       "translation": "缩小",
       "sources": [
         "app/src/main-process/menu/build-default-menu.ts"
+      ]
+    },
+    {
+      "text": " (Signed out)",
+      "translation": "（已退出登录）",
+      "sources": [
+        "app/src/ui/repositories-list/repository-list-item-context-menu.ts"
+      ]
+    },
+    {
+      "text": " (signed out)",
+      "translation": "（已退出登录）",
+      "sources": [
+        "app/src/ui/repository-settings/repository-settings.tsx"
+      ]
+    },
+    {
+      "text": " You can bypass these rules.",
+      "translation": "你可以绕过这些规则。",
+      "sources": [
+        "app/src/ui/changes/commit-message.tsx"
+      ]
+    },
+    {
+      "text": " account on",
+      "translation": "，所在服务器为",
+      "sources": [
+        "app/src/ui/invalidated-token/invalidated-token.tsx"
+      ]
+    },
+    {
+      "text": " into commits and write their messages.",
+      "translation": "的更改拆分为多个提交，并编写提交说明。",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": " is assigned to @",
+      "translation": " 已关联账户 @",
+      "sources": [
+        "app/src/ui/repository-account/repository-account-dialog.tsx"
+      ]
+    },
+    {
+      "text": " no longer exists. Remove it from this repository?",
+      "translation": " 的文件夹已不存在。是否从此仓库中移除该工作树？",
+      "sources": [
+        "app/src/ui/worktrees/delete-worktree-dialog.tsx"
+      ]
+    },
+    {
+      "text": " on",
+      "translation": " 登录",
+      "sources": [
+        "app/src/ui/sign-in/sign-in.tsx"
+      ]
+    },
+    {
+      "text": " on ",
+      "translation": " 所在的服务器为 ",
+      "sources": [
+        "app/src/ui/repository-account/repository-account-dialog.tsx",
+        "app/src/ui/repository-account/confirm-account-sign-out.tsx"
+      ]
+    },
+    {
+      "text": " selected ",
+      "translation": "",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": " to continue.",
+      "translation": " 以继续。",
+      "sources": [
+        "app/src/ui/sign-in/sign-in.tsx"
+      ]
+    },
+    {
+      "text": " with Copilot",
+      "translation": "（使用 Copilot）",
+      "sources": [
+        "app/src/ui/changes/commit-message.tsx"
+      ]
+    },
+    {
+      "text": "(missing)",
+      "translation": "（已缺失）",
+      "sources": [
+        "app/src/ui/worktrees/worktree-list-item.tsx"
+      ]
+    },
+    {
+      "text": ". Do you want to sign in again?",
+      "translation": "。是否重新登录？",
+      "sources": [
+        "app/src/ui/invalidated-token/invalidated-token.tsx"
+      ]
+    },
+    {
+      "text": ". Sign in to continue using this account.",
+      "translation": "。请登录以继续使用此账户。",
+      "sources": [
+        "app/src/ui/repository-account/repository-account-dialog.tsx"
+      ]
+    },
+    {
+      "text": ". This does not change your Git author name or email.",
+      "translation": "。此设置不会更改 Git 提交作者的姓名或邮箱。",
+      "sources": [
+        "app/src/ui/repository-account/repository-account-dialog.tsx"
+      ]
+    },
+    {
+      "text": "Add GitHub.com account",
+      "translation": "添加 GitHub.com 账户",
+      "sources": [
+        "app/src/ui/preferences/accounts.tsx"
+      ]
+    },
+    {
+      "text": "Animate Copilot",
+      "translation": "播放 Copilot 动画",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Assisted commits",
+      "translation": "辅助提交",
+      "sources": [
+        "app/src/ui/preferences/copilot-user-settings.tsx"
+      ]
+    },
+    {
+      "text": "Cancelling the commit run…",
+      "translation": "正在取消提交任务…",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Checking the complete commit plan…",
+      "translation": "正在检查完整的提交计划…",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Choose an account…",
+      "translation": "选择账户…",
+      "sources": [
+        "app/src/ui/account-picker.tsx"
+      ]
+    },
+    {
+      "text": "Choose another account",
+      "translation": "选择其他账户",
+      "sources": [
+        "app/src/ui/repository-account/repository-account-dialog.tsx"
+      ]
+    },
+    {
+      "text": "Choose how to commit",
+      "translation": "选择提交方式",
+      "sources": [
+        "app/src/ui/changes/commit-message.tsx"
+      ]
+    },
+    {
+      "text": "Choose the account to use for GitHub API requests and HTTPS authentication for ",
+      "translation": "请选择用于 GitHub API 请求和 HTTPS 身份验证的账户。仓库 ",
+      "sources": [
+        "app/src/ui/repository-account/repository-account-dialog.tsx"
+      ]
+    },
+    {
+      "text": "Clear repository account assignments",
+      "translation": "清除仓库的账户关联",
+      "sources": [
+        "app/src/ui/repository-account/confirm-account-sign-out.tsx"
+      ]
+    },
+    {
+      "text": "Commit run stopped",
+      "translation": "提交任务已停止",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Commit run stopped: ",
+      "translation": "提交任务已停止：",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Commit with Copilot",
+      "translation": "使用 Copilot 提交",
+      "sources": [
+        "app/src/ui/changes/commit-message.tsx"
+      ]
+    },
+    {
+      "text": "Copilot is on it…",
+      "translation": "Copilot 正在处理…",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Copilot is splitting your changes into commits",
+      "translation": "Copilot 正在将更改拆分为多个提交",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Copilot splits the selected changes into commits and writes their messages.",
+      "translation": "Copilot 会将所选更改拆分为多个提交，并编写提交说明。",
+      "sources": [
+        "app/src/ui/changes/commit-message.tsx"
+      ]
+    },
+    {
+      "text": "Copilot will plan your selected changes, and GitHub Desktop will create one or more local commits with their generated messages. Copilot will not edit your files. You can cancel before local acceptance to undo commits created by this run. If Push after committing is enabled, all local commits are kept once pushing starts, even if the push fails.",
+      "translation": "Copilot 会规划如何拆分所选更改，GitHub Desktop 会使用生成的提交说明创建一个或多个本地提交。Copilot 不会修改你的文件。在确认本地提交前，你可以取消并撤销本次创建的提交。如果启用了“提交后推送”，一旦开始推送，所有本地提交都会保留，即使推送失败也是如此。",
+      "sources": [
+        "app/src/ui/app.tsx"
+      ]
+    },
+    {
+      "text": "Copilot will split the ",
+      "translation": "Copilot 会将所选的 ",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Create an empty commit",
+      "translation": "创建空提交",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Create one commit without file changes or Copilot analysis.",
+      "translation": "直接创建一个空提交，无需更改文件或使用 Copilot 分析。",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Creating commit ",
+      "translation": "正在创建提交 ",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Details",
+      "translation": "详细信息",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Finalizing local commits…",
+      "translation": "正在完成本地提交…",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Finish or cancel before syncing",
+      "translation": "请先完成或取消提交，再进行同步",
+      "sources": [
+        "app/src/ui/toolbar/push-pull-button.tsx"
+      ]
+    },
+    {
+      "text": "Finish or cancel the assisted commit run before cloning into this directory.",
+      "translation": "请先完成或取消辅助提交任务，再克隆到此目录。",
+      "sources": [
+        "app/src/ui/clone-repository/clone-repository.tsx"
+      ]
+    },
+    {
+      "text": "Finish or cancel the assisted commit run before creating a repository in this directory.",
+      "translation": "请先完成或取消辅助提交任务，再在此目录中创建仓库。",
+      "sources": [
+        "app/src/ui/add-repository/create-repository.tsx"
+      ]
+    },
+    {
+      "text": "Finishing repository refresh…",
+      "translation": "正在完成仓库刷新…",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Freezing selected changes…",
+      "translation": "正在保存所选更改的快照…",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Keep these assignments to use this account when you sign in again, or clear them to choose an account the next time you use these repositories.",
+      "translation": "保留关联，下次登录时即可继续使用此账户。清除关联后，下次使用这些仓库时可以重新选择账户。",
+      "sources": [
+        "app/src/ui/repository-account/confirm-account-sign-out.tsx"
+      ]
+    },
+    {
+      "text": "Let Copilot write your commits",
+      "translation": "让 Copilot 帮你创建提交",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Local commit run",
+      "translation": "正在本地创建提交",
+      "sources": [
+        "app/src/ui/toolbar/push-pull-button.tsx"
+      ]
+    },
+    {
+      "text": "None (unassigned)",
+      "translation": "无（未分配）",
+      "sources": [
+        "app/src/ui/repository-settings/repository-settings.tsx"
+      ]
+    },
+    {
+      "text": "Open Details for more information.",
+      "translation": "打开“详细信息”查看原因。",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Planning selected changes…",
+      "translation": "正在规划如何拆分所选更改…",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Preparing selected changes…",
+      "translation": "正在准备所选更改…",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Push after committing",
+      "translation": "提交后推送",
+      "sources": [
+        "app/src/ui/changes/commit-message.tsx"
+      ]
+    },
+    {
+      "text": "Recovery needs attention before you can continue.",
+      "translation": "请先处理恢复问题，再继续操作。",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Refresh the repository before continuing.",
+      "translation": "请刷新仓库后再继续。",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Refreshing local commits…",
+      "translation": "正在刷新本地提交…",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Refreshing selected changes…",
+      "translation": "正在刷新所选更改…",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Remove missing worktree",
+      "translation": "移除已缺失的工作树",
+      "sources": [
+        "app/src/ui/worktrees/delete-worktree-dialog.tsx"
+      ]
+    },
+    {
+      "text": "Repository account",
+      "translation": "仓库账户",
+      "sources": [
+        "app/src/ui/repository-account/repository-account-dialog.tsx"
+      ]
+    },
+    {
+      "text": "Repository settings…",
+      "translation": "仓库设置…",
+      "sources": [
+        "app/src/ui/repositories-list/repository-list-item-context-menu.ts"
+      ]
+    },
+    {
+      "text": "Retry push",
+      "translation": "重新推送",
+      "sources": [
+        "app/src/ui/app-error.tsx"
+      ]
+    },
+    {
+      "text": "Retry refresh",
+      "translation": "重新刷新",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Retry rollback",
+      "translation": "重试回滚",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Select the changes you want to commit and Copilot will split them into commits and write their messages.",
+      "translation": "选择要提交的更改，Copilot 会将它们拆分为多个提交，并编写提交说明。",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Sign in as ",
+      "translation": "请使用账户 ",
+      "sources": [
+        "app/src/ui/sign-in/sign-in.tsx"
+      ]
+    },
+    {
+      "text": "Sign in to your GitHub.com account to publish your repository.",
+      "translation": "请登录 GitHub.com 账户以发布仓库。",
+      "sources": [
+        "app/src/ui/publish-repository/publish.tsx"
+      ]
+    },
+    {
+      "text": "Sign out of @",
+      "translation": "是否退出账户 @",
+      "sources": [
+        "app/src/ui/repository-account/confirm-account-sign-out.tsx"
+      ]
+    },
+    {
+      "text": "Some selected changes moved or changed. Review and reselect them.",
+      "translation": "部分所选更改已移动或发生变化。请检查并重新选择。",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Splitting your changes into commits and writing their messages.",
+      "translation": "正在将更改拆分为多个提交，并编写提交说明。",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "The account used for GitHub API requests and HTTPS authentication. This does not change your Git author name or email.",
+      "translation": "此账户用于 GitHub API 请求和 HTTPS 身份验证。更改此设置不会影响 Git 提交作者的姓名或邮箱。",
+      "sources": [
+        "app/src/ui/repository-settings/repository-settings.tsx"
+      ]
+    },
+    {
+      "text": "The commit author email",
+      "translation": "提交作者邮箱",
+      "sources": [
+        "app/src/ui/changes/commit-message.tsx"
+      ]
+    },
+    {
+      "text": "The folder for the worktree ",
+      "translation": "工作树 ",
+      "sources": [
+        "app/src/ui/worktrees/delete-worktree-dialog.tsx"
+      ]
+    },
+    {
+      "text": "The selected changes or commit options changed. Review your selection and try again.",
+      "translation": "所选更改或提交选项已变化。请检查后重试。",
+      "sources": [
+        "app/src/ui/changes/commit-message.tsx"
+      ]
+    },
+    {
+      "text": "Unassociated",
+      "translation": "未关联",
+      "sources": [
+        "app/src/ui/repositories-list/repositories-list.tsx"
+      ]
+    },
+    {
+      "text": "Undoing commits from this run…",
+      "translation": "正在撤销本次任务创建的提交…",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Update author email",
+      "translation": "更新作者邮箱",
+      "sources": [
+        "app/src/ui/changes/commit-message.tsx"
+      ]
+    },
+    {
+      "text": "Use account",
+      "translation": "使用此账户",
+      "sources": [
+        "app/src/ui/repository-account/repository-account-dialog.tsx"
+      ]
+    },
+    {
+      "text": "Waiting for your consent",
+      "translation": "等待你确认",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Write the commit summary and description yourself.",
+      "translation": "手动填写提交摘要和说明。",
+      "sources": [
+        "app/src/ui/changes/commit-message.tsx"
+      ]
+    },
+    {
+      "text": "Writing one message for all selected changes…",
+      "translation": "正在为所有选中的更改编写一条提交说明…",
+      "sources": [
+        "app/src/ui/changes/copilot-commit-panel.tsx"
+      ]
+    },
+    {
+      "text": "Your account token is no longer valid and you have been signed out from your ",
+      "translation": "账户令牌已失效。你已退出账户 ",
+      "sources": [
+        "app/src/ui/invalidated-token/invalidated-token.tsx"
+      ]
+    },
+    {
+      "text": "Your commit author email does not meet this repository's rules.",
+      "translation": "你的提交作者邮箱不符合此仓库的规则。",
+      "sources": [
+        "app/src/ui/changes/commit-message.tsx"
+      ]
+    },
+    {
+      "text": "assigned to @",
+      "translation": "已关联账户 @",
+      "sources": [
+        "app/src/ui/repository-account/confirm-account-sign-out.tsx"
+      ]
+    },
+    {
+      "text": "press backspace or delete to remove",
+      "translation": "按退格键或 Delete 键移除",
+      "sources": [
+        "app/src/ui/lib/author-input/author-handle.tsx"
+      ]
+    },
+    {
+      "text": "repositories are",
+      "translation": "个仓库",
+      "sources": [
+        "app/src/ui/repository-account/confirm-account-sign-out.tsx"
+      ]
+    },
+    {
+      "text": "repository is",
+      "translation": "个仓库",
+      "sources": [
+        "app/src/ui/repository-account/confirm-account-sign-out.tsx"
       ]
     }
   ]
